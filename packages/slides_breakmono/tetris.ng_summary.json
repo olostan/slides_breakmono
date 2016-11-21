@@ -1,0 +1,75 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "dart:math",
+        "5": false
+      },
+      {
+        "1": "package:angular2/core.dart",
+        "5": false
+      },
+      {
+        "1": "dart:async",
+        "5": false
+      },
+      {
+        "1": "dart:html",
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "Tetris"
+      }
+    ],
+    "6": "tetris.dart"
+  },
+  "type": {
+    "Tetris": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "tetris",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "Tetris",
+        "moduleUrl": "asset:slides_breakmono/lib/tetris.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "initialStr": "initial",
+        "speedStr": "speed"
+      },
+      "inputTypes": {
+        "initialStr": " String",
+        "speedStr": " String"
+      },
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 0,
+        "template": "<div style=\"text-align: center\">\n    <span class=\"button\" (click)=\"start()\">\n        <span *ngIf=\"state==0\">Start</span>\n        <span *ngIf=\"state!=0\">Re-start</span>\n\n    </span>\n    <div *ngFor=\"let row of grid\"  [class]=\"'row r'+state.toString()\">\n        <span *ngFor=\"let c of row\" [class]='\"c\"+c.toString()'></span>\n    </div>\n</div>\n",
+        "templateUrl": "asset:slides_breakmono/lib/tetris.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:slides_breakmono/lib/tetris.css"
+        ],
+        "ngContentSelectors": []
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}

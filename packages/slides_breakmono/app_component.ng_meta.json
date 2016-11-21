@@ -1,0 +1,179 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:angular2/core.dart",
+        "5": false
+      },
+      {
+        "1": "package:dacsslide/presentation_component.dart",
+        "5": false
+      },
+      {
+        "1": "package:dacsslide/sample_directive.dart",
+        "5": false
+      },
+      {
+        "1": "tetris.dart",
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "AppComponent",
+        "7": [
+          {
+            "2": "PresentationComponent"
+          },
+          {
+            "2": "SymbolComponent"
+          },
+          {
+            "2": "SampleDirective"
+          },
+          {
+            "2": "Tetris"
+          }
+        ]
+      }
+    ],
+    "6": "app_component.dart",
+    "7": [
+      {
+        "1": "package:angular2/core.template.dart",
+        "4": "i0"
+      },
+      {
+        "1": "package:dacsslide/presentation_component.template.dart",
+        "4": "i1"
+      },
+      {
+        "1": "package:dacsslide/sample_directive.template.dart",
+        "4": "i2"
+      },
+      {
+        "1": "tetris.template.dart",
+        "4": "i3"
+      }
+    ]
+  },
+  "type": {
+    "AppComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "my-app",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "AppComponent",
+        "moduleUrl": "asset:slides_breakmono/lib/app_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {},
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 2,
+        "template": "<presentation slides=\"70\">\n    <symbol name=\"bg\"></symbol>\n    <symbol name=\"title\">Migrating Monolith-style Application into Microservice Based Architecture</symbol>\n    <symbol name=\"subtitle\">Best Practices</symbol>\n    <symbol name=\"me_ava\"><img src=\"assets/shybanov.jpg\"></symbol>\n    <symbol name=\"me\">Valentyn Shybanov</symbol>\n    <symbol name=\"me_2\">Software Architect, Wolters Kluwer</symbol>\n    <symbol name=\"me_3\">Google Developers Expert. Web & Cloud</symbol>\n    <symbol name=\"me_4\"><a href=\"http://olostan.name/\" target=\"_blank\">http://olostan.name/</a></symbol>\n\n    <symbol name=\"evo\"><img src=\"assets/evolution-of-man-to-computer.jpg\"></symbol>\n    <symbol name=\"deep\"><img src=\"assets/deep-down.jpg\"></symbol>\n    <symbol name=\"whycloud\"><img src=\"assets/questionmark.jpg\"></symbol>\n    <symbol name=\"whycloud_t\">WHY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUD?</symbol>\n\n    <symbol name=\"t\"><tetris speed=\"100\"></tetris></symbol>\n\n    <symbol name=\"wc_l1\">Updates for free</symbol>\n    <symbol name=\"wc_l2\">Flexible up&down scaling</symbol>\n    <symbol name=\"wc_l2_g2\"><img src=\"assets/google-cloud-pokemon-go-1.png\"></symbol>\n\n    <symbol name=\"wc_l2_g\"><img src=\"assets/pokemon_go_logo.png\"></symbol>\n\n    <symbol name=\"wc_l3\">Always On</symbol>\n    <symbol name=\"wc_l4\">Environment Friendly</symbol>\n    <symbol name=\"wc_l4_g\"><img src=\"assets/envir.gif\"></symbol>\n\n    <symbol name=\"server\"><img src=\"assets/server.png\"></symbol>\n    <symbol name=\"server_t\">Own Datacenter</symbol>\n    <symbol name=\"cloud_dc\"><img src=\"assets/cloud-datacenter.jpg\"></symbol>\n\n    <symbol name=\"process\">\n        <ol>\n            <li>Create VM</li>\n            <li>Install Updates</li>\n            <li>Install Platform Dependencies</li>\n            <li>Install Platform</li>\n            <li>Install App Dependencies</li>\n            <li>Install App</li>\n            <li>Check it works</li>\n        </ol>\n    </symbol>\n    <symbol name=\"process_x\">&#xd7; scaling</symbol>\n    <symbol name=\"monoexample\"><img src=\"assets/mono-example.svg\"></symbol>\n    <symbol name=\"monoexamplem\"><img src=\"assets/mono-example-micr.svg\"></symbol>\n    <symbol name=\"t2\"><tetris speed=\"300\"></tetris></symbol>\n    <symbol name=\"glass\"><img src=\"assets/glass.jpg\"></symbol>\n    <symbol name=\"should_we\">Should we always break into microservices?</symbol>\n    <symbol name=\"t3\"><tetris speed=\"300\" initial=\"13\"></tetris></symbol>\n    <symbol name=\"providers\">\n        <div><span>Azure</span>Container Service</div>\n        <div><span>Amazon</span>EC2 Container Service</div>\n        <div><span>Google</span>Container Engine</div>\n    </symbol>\n    <symbol name=\"cneeds\">\n        <ul class=\"bul\">\n        <li>Discovery</li>\n        <li>Scaling</li>\n        <li>Security</li>\n        <li>Scheduling</li>\n        <li>Monitoring</li>\n        <li>Configuration</li>\n        <li>Health</li>\n        </ul>\n    </symbol>\n    <symbol name=\"azuresf\"><img src=\"assets/azure_sf.png\"></symbol>\n    <symbol name=\"vendor\"><img src=\"assets/vendor-lock.png\"></symbol>\n    <symbol name=\"kube\"><img src=\"assets/kube-logo.png\"></symbol>\n    <symbol name=\"kube_ex\" sample=\"samples/kube.sh\"></symbol>\n    <symbol name=\"fight\"><img src=\"assets/fight.jpg\"></symbol>\n    <symbol name=\"statefull\">Statefull</symbol>\n    <symbol name=\"stateless\">Stateless</symbol>\n    <symbol name=\"petvscattle\"><img src=\"assets/pets-vs-cattle.jpg\"></symbol>\n    <symbol name=\"petexamples\">\n        <p class=\"cap\">Example workloads for PetSet:</p>\n        <p>Databases like <b>MySQL</b> or <b>PostgreSQL</b> that require a single instance attached to a NFS <b>persistent volume</b> at any time</p>\n        <p>Clustered software like Zookeeper, Etcd, or Elasticsearch that require <b>stable membership</b>.</p>\n\n    </symbol>\n    <symbol name=\"communication\"><img src=\"assets/Communication.png\"></symbol>\n    <symbol name=\"communication_t\">Communication</symbol>\n    <symbol name=\"com_ex\" sample=\"samples/com.js\"></symbol>\n    <symbol name=\"com_ex2\" sample=\"samples/com2.js\"></symbol>\n    <symbol name=\"com_f\">\n        <ul class=\"bul\">\n        <li>Discoverable</li>\n        <li>Low-latency</li>\n        <li>Cross-language</li>\n        </ul>\n    </symbol>\n    <symbol name=\"grpc\"><img src=\"assets/grpc.png\"></symbol>\n    <symbol name=\"grpc_ex\" sample=\"samples/grpc.cs\"></symbol>\n    <symbol name=\"pubsub\" ><img src=\"assets/pubsub.gif\"></symbol>\n    <symbol name=\"rabbit_h\" ><img src=\"assets/rabbitmq_how.svg\"></symbol>\n    <symbol name=\"rabbit\" ><img src=\"assets/rabbit.png\"></symbol>\n    <symbol name=\"kafka\" ><img src=\"assets/kafka-logo-wide.png\"></symbol>\n    <symbol name=\"kafka_d\">Apache Kafka is an open-source <b>stream processing platform</b> developed by the Apache Software Foundation written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for <b>handling real-time data feeds</b>.</symbol>\n    <symbol name=\"kafka_d2\">Massively scalable <b>pub/sub message queue</b> architected as a <b>distributed transaction log</b></symbol>\n    <symbol name=\"kafka_ar\" ><img src=\"assets/kafka_ar.png\"></symbol>\n    <symbol name=\"pubsub_providers\">\n        <div><span>Azure</span>Service Bus</div>\n        <div><span>Amazon</span>Simple Queue/Notification Service</div>\n        <div><span>Google</span>Cloud Pub/Sub</div>\n    </symbol>\n    <symbol name=\"spotify_logo\" ><img src=\"assets/spotify-logo.png\"></symbol>\n    <symbol name=\"spotify_o\" ><img src=\"assets/spotify_o.png\"></symbol>\n    <symbol name=\"spotify\" ><img src=\"assets/spotify-ar.png\"></symbol>\n    <symbol name=\"spotify_r\" ><img src=\"assets/spotify_sp.png\"></symbol>\n    <symbol name=\"summary\">\n        <ul>\n        <li>Why Cloud?\n            <ul>\n                <li>Efficient Resources</li>\n                <li>Delegated ops</li>\n            </ul></li>\n        <li>Why Containers?\n            <ul>\n                <li>Packaged dependencies</li>\n                <li>Atomic deployment</li>\n            </ul></li>\n        <li>Container management\n            <ul>\n                <li>Relations between containers</li>\n                <li>Storage</li>\n                <li>Health checks</li>\n            </ul></li>\n        <li>Stateful and Stateless services\n            <ul>\n                <li>Stateless scalable</li>\n                <li>Stateful persistence</li>\n            </ul></li>\n        <li>Communication between services\n            <ul>\n                <li>Sync calls: gRPC</li>\n                <li>Async ops: Pub/Sub</li>\n            </ul></li>\n        <li>Managed Services\n            <ul>\n                <li>Big savings on ops</li>\n            </ul></li>\n        </ul>\n    </symbol>\n    <symbol name=\"thnx\">Thank you!</symbol>\n    <symbol name=\"url\">https://olostan.github.io/slides_breakmono/</symbol>\n    <!--\nc.storage.googleapis.com.\n    Plan:\n    - Introduction\n    - Some history about me and my experience\n    - I not tell anything new\n        I'll share best practices and do recommendation\n    - why cloud (shortly)\n        Updates of underlying infrastructure for free\n        Flexible up-and-down scaling. Up to PokemonGo\n        Always on\n        Less environmental impact\n    - Why containers\n        No external dependencies\n        Better resource utilisation - tetris\n    - Real-life sitatuion - we have already a lot of code (tetris example)\n    - Sometimes you shoud say \"No\".\n        Sometimes monolyth serve much better that cutting app into pieces to have \"microservices\"\n\n    ...\n    - We have containers. They work. Is it enough?\n        Discovery\n        Scaling\n        Security\n        Scheduling\n        Monitoring\n        Configuration\n        Health\n      Manual work vs automated\n    - all providers allows us to run containers\n        Azure - Azure Container Service\n        Amazon -Amazon EC2 Container Service\n        Google - Container Engine\n     But what about vendor locking? We've chosen Docker to be universal, why to lock vendor for container managemnt?\n\n     Use Kubernetes: Manage application, not machines\n        Create deployment, expose it, health management\n     With K8S 1.3 you can \"federated services\" (http://kubernetes.io/docs/user-guide/federation/federated-services/)\n        your applications and services can span different clusters and cloud providers\n     A lot of legacy apps are stateful.\n        It is bad.\n        PetSet. We can even run \"initialization container\" to restore state, persistent\n        disk/container\n     Communication\n        Discoverable\n        Low-latency\n        Cross-language\n     Sync calls (most easiest - no rewrite of core system)\n        Instead of message call, call stub and get result\n            Recommendation: gRPC\n        Implementation:\n            First can be stateful (bad scalability), better to refactor to be stateless (request contain all data needed\n            to perform request)\n            Then stateless (make context into request to quotable (latency))\n     Async calls: pub/sub or message queues\n        Require architecture changes\n            RabbitMQ, Kafka\n        Vendor-lock possible: this is one of the most critical point. Let MS/Google engineers take care.\n     Health and monitoring\n        ELK Stack.\n\n\n\n    Cloud Technologies brings a huge challenge to Enterprises that have successful products. You can’t just stop\n    developing new features and develop “cloud-ready” application from scratch. During this talk we’ll try to go\n    through most important steps of migrating from monolith-style applications into micro-service based that utilize\n    best cloud features: PubSub, gRPC etc.\n\n    -->\n\n</presentation>",
+        "templateUrl": "asset:slides_breakmono/lib/app_component.html",
+        "styles": [],
+        "styleUrls": [
+          "asset:slides_breakmono/lib/app_component.css"
+        ],
+        "ngContentSelectors": []
+      },
+      "providers": [
+        {
+          "class": "Provider",
+          "token": {
+            "value": null,
+            "identifier": {
+              "class": "Type",
+              "name": "SampleService",
+              "moduleUrl": "asset:dacsslide/lib/sample_directive.dart",
+              "prefix": null,
+              "isHost": false,
+              "value": null,
+              "diDeps": [
+                {
+                  "token": {
+                    "value": null,
+                    "identifier": {
+                      "class": "Identifier",
+                      "name": "BrowserClient",
+                      "moduleUrl": "package:http/browser_client.dart",
+                      "prefix": null,
+                      "value": null
+                    },
+                    "identifierIsInstance": false
+                  },
+                  "query": null,
+                  "viewQuery": null,
+                  "value": null,
+                  "isAttribute": false,
+                  "isSelf": false,
+                  "isHost": false,
+                  "isSkipSelf": false,
+                  "isOptional": false,
+                  "isValue": false
+                }
+              ]
+            },
+            "identifierIsInstance": false
+          },
+          "useClass": {
+            "class": "Type",
+            "name": "SampleService",
+            "moduleUrl": "asset:dacsslide/lib/sample_directive.dart",
+            "prefix": null,
+            "isHost": false,
+            "value": null,
+            "diDeps": [
+              {
+                "token": {
+                  "value": null,
+                  "identifier": {
+                    "class": "Identifier",
+                    "name": "BrowserClient",
+                    "moduleUrl": "package:http/browser_client.dart",
+                    "prefix": null,
+                    "value": null
+                  },
+                  "identifierIsInstance": false
+                },
+                "query": null,
+                "viewQuery": null,
+                "value": null,
+                "isAttribute": false,
+                "isSelf": false,
+                "isHost": false,
+                "isSkipSelf": false,
+                "isOptional": false,
+                "isValue": false
+              }
+            ]
+          },
+          "useExisting": null,
+          "useValue": null,
+          "useFactory": null,
+          "useProperty": null,
+          "multi": false,
+          "deps": null
+        }
+      ],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}

@@ -1,0 +1,27 @@
+{
+  "ngDeps": null,
+  "type": {
+    "_SymbolState": {
+      "class": "Identifier",
+      "name": "_SymbolState",
+      "moduleUrl": "asset:dacsslide/lib/scss_transformer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "_Css": {
+      "class": "Identifier",
+      "name": "_Css",
+      "moduleUrl": "asset:dacsslide/lib/scss_transformer.dart",
+      "prefix": null,
+      "value": null
+    },
+    "transformCSSLide": {
+      "class": "Identifier",
+      "name": "transformCSSLide",
+      "moduleUrl": "asset:dacsslide/lib/scss_transformer.dart",
+      "prefix": null,
+      "value": null
+    }
+  },
+  "alias": {}
+}

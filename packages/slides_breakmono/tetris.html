@@ -1,0 +1,10 @@
+<div style="text-align: center">
+    <span class="button" (click)="start()">
+        <span *ngIf="state==0">Start</span>
+        <span *ngIf="state!=0">Re-start</span>
+
+    </span>
+    <div *ngFor="let row of grid"  [class]="'row r'+state.toString()">
+        <span *ngFor="let c of row" [class]='"c"+c.toString()'></span>
+    </div>
+</div>

@@ -1,0 +1,227 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:angular2/core.dart",
+        "5": false
+      },
+      {
+        "1": "package:angular2/src/platform/dom/events/event_manager.dart",
+        "2": [
+          "EventManager"
+        ],
+        "5": false
+      },
+      {
+        "1": "dart:html",
+        "2": [
+          "KeyboardEvent",
+          "window",
+          "HashChangeEvent",
+          "document"
+        ],
+        "5": false
+      }
+    ],
+    "5": [
+      {
+        "1": "SymbolComponent"
+      },
+      {
+        "1": "PresentationComponent",
+        "5": [
+          {
+            "1": "Renderer",
+            "4": "renderer"
+          },
+          {
+            "1": "EventManager",
+            "4": "evm"
+          },
+          {
+            "1": "ElementRef",
+            "4": "elRef"
+          }
+        ],
+        "6": [
+          "OnDestroy",
+          "OnInit"
+        ],
+        "7": [
+          {
+            "2": "SymbolComponent"
+          }
+        ]
+      }
+    ],
+    "6": "presentation_component.dart",
+    "7": [
+      {
+        "1": "package:angular2/core.template.dart",
+        "4": "i0"
+      },
+      {
+        "1": "package:angular2/src/platform/dom/events/event_manager.template.dart",
+        "4": "i1"
+      }
+    ]
+  },
+  "type": {
+    "SymbolComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "symbol",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "SymbolComponent",
+        "moduleUrl": "asset:dacsslide/lib/presentation_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": []
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "name": "name"
+      },
+      "inputTypes": {
+        "name": " String"
+      },
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {},
+      "hostAttributes": {},
+      "lifecycleHooks": [],
+      "template": {
+        "encapsulation": 2,
+        "template": "<div [id]=\"name\"><ng-content></ng-content></div>",
+        "templateUrl": "asset:dacsslide/lib/presentation_component.dart",
+        "styles": [],
+        "styleUrls": [],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    },
+    "PresentationComponent": {
+      "class": "Directive",
+      "isComponent": true,
+      "selector": "presentation",
+      "exportAs": null,
+      "type": {
+        "class": "Type",
+        "name": "PresentationComponent",
+        "moduleUrl": "asset:dacsslide/lib/presentation_component.dart",
+        "prefix": null,
+        "isHost": false,
+        "value": null,
+        "diDeps": [
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "Renderer",
+                "moduleUrl": "asset:angular2/lib/src/core/render/api.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "query": null,
+            "viewQuery": null,
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "EventManager",
+                "moduleUrl": "asset:angular2/lib/src/platform/dom/events/event_manager.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "query": null,
+            "viewQuery": null,
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          },
+          {
+            "token": {
+              "value": null,
+              "identifier": {
+                "class": "Identifier",
+                "name": "ElementRef",
+                "moduleUrl": "asset:angular2/lib/src/core/linker/element_ref.dart",
+                "prefix": null,
+                "value": null
+              },
+              "identifierIsInstance": false
+            },
+            "query": null,
+            "viewQuery": null,
+            "value": null,
+            "isAttribute": false,
+            "isSelf": false,
+            "isHost": false,
+            "isSkipSelf": false,
+            "isOptional": false,
+            "isValue": false
+          }
+        ]
+      },
+      "changeDetection": 6,
+      "inputs": {
+        "slidesAttr": "slides"
+      },
+      "inputTypes": {},
+      "outputs": {},
+      "hostListeners": {},
+      "hostProperties": {
+        "attr.class": "slidesClassList"
+      },
+      "hostAttributes": {},
+      "lifecycleHooks": [
+        1,
+        0
+      ],
+      "template": {
+        "encapsulation": 0,
+        "template": "<div [attr.class]=\"slidesClassList\">\n<div class=\"controls\">\n        <span (click)=\"prevSlide()\"> &larr; </span> {{current}} <span (click)=\"nextSlide()\"> &rarr; </span>\n</div>\n<ng-content></ng-content></div>",
+        "templateUrl": "asset:dacsslide/lib/presentation_component.dart",
+        "styles": [],
+        "styleUrls": [
+          "asset:dacsslide/lib/presentation_component.css"
+        ],
+        "ngContentSelectors": [
+          "*"
+        ]
+      },
+      "providers": [],
+      "viewProviders": [],
+      "queries": [],
+      "viewQueries": []
+    }
+  },
+  "alias": {}
+}

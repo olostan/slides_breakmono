@@ -1,0 +1,36 @@
+{
+  "ngDeps": {
+    "1": "",
+    "3": [
+      {
+        "1": "package:barback/barback.dart",
+        "5": false
+      },
+      {
+        "1": "package:dacsslide/scss_transformer.dart",
+        "5": false
+      },
+      {
+        "1": "dart:async",
+        "5": false
+      }
+    ],
+    "6": "transformer.dart",
+    "7": [
+      {
+        "1": "package:dacsslide/scss_transformer.template.dart",
+        "4": "i0"
+      }
+    ]
+  },
+  "type": {
+    "CSSLib_Tranform": {
+      "class": "Identifier",
+      "name": "CSSLib_Tranform",
+      "moduleUrl": "asset:dacsslide/lib/transformer.dart",
+      "prefix": null,
+      "value": null
+    }
+  },
+  "alias": {}
+}
