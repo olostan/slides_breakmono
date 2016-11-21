@@ -7942,7 +7942,7 @@ S.i8()
 R.pY()}}],["","",,Y,{"^":"",km:{"^":"a;a,b,c,d,e,f,r,x"}}],["","",,G,{"^":"",
 pT:function(){if($.nV)return
 $.nV=!0
-$.$get$H().a.j(0,C.bo,new M.A(C.d,C.dR,new G.EQ(),C.em,null))
+$.$get$H().a.j(0,C.bo,new M.A(C.d,C.dP,new G.EQ(),C.em,null))
 L.a5()},
 EQ:{"^":"b:58;",
 $4:[function(a,b,c,d){return new Y.km(a,b,c,d,null,null,[],null)},null,null,8,0,null,48,[],72,[],68,[],9,[],"call"]}}],["","",,R,{"^":"",et:{"^":"a;a,b,c,d,e,f,r",
@@ -8014,8 +8014,8 @@ $2:[function(a,b){return new K.eu(b,a,!1)},null,null,4,0,null,41,[],53,[],"call"
 pW:function(){if($.nR)return
 $.nR=!0
 var z=$.$get$H().a
-z.j(0,C.bw,new M.A(C.d,C.dv,new B.EL(),null,null))
-z.j(0,C.bx,new M.A(C.d,C.dc,new B.EM(),C.dA,null))
+z.j(0,C.bw,new M.A(C.d,C.du,new B.EL(),null,null))
+z.j(0,C.bx,new M.A(C.d,C.dc,new B.EM(),C.dz,null))
 L.a5()
 S.i8()},
 EL:{"^":"b:62;",
@@ -8026,7 +8026,7 @@ EM:{"^":"b:63;",
 $1:[function(a){return new A.ku(a,null,null,new H.ad(0,null,null,null,null,null,0,[null,V.dJ]),null)},null,null,2,0,null,65,[],"call"]}}],["","",,X,{"^":"",kx:{"^":"a;a,b,c,d"}}],["","",,Z,{"^":"",
 pX:function(){if($.nQ)return
 $.nQ=!0
-$.$get$H().a.j(0,C.bz,new M.A(C.d,C.dV,new Z.EK(),C.aM,null))
+$.$get$H().a.j(0,C.bz,new M.A(C.d,C.dU,new Z.EK(),C.aM,null))
 L.a5()
 K.q0()},
 EK:{"^":"b:64;",
@@ -8161,7 +8161,7 @@ $asbi:I.Y,
 $ascI:I.Y}}],["","",,N,{"^":"",
 dh:function(){if($.nz)return
 $.nz=!0
-$.$get$H().a.j(0,C.bp,new M.A(C.d,C.cV,new N.Ew(),C.dh,null))
+$.$get$H().a.j(0,C.bp,new M.A(C.d,C.cV,new N.Ew(),C.dg,null))
 L.a5()
 O.aW()
 L.bV()
@@ -8221,7 +8221,7 @@ $asbi:I.Y,
 $ascI:I.Y}}],["","",,T,{"^":"",
 pO:function(){if($.nG)return
 $.nG=!0
-$.$get$H().a.j(0,C.bu,new M.A(C.d,C.aH,new T.EB(),C.dE,null))
+$.$get$H().a.j(0,C.bu,new M.A(C.d,C.aH,new T.EB(),C.dD,null))
 L.a5()
 O.aW()
 L.bV()
@@ -8328,7 +8328,7 @@ i4:function(){if($.nt)return
 $.nt=!0
 var z=$.$get$H().a
 z.j(0,C.ao,new M.A(C.h,C.d,new F.Et(),null,null))
-z.j(0,C.ap,new M.A(C.d,C.dS,new F.Eu(),C.eb,null))
+z.j(0,C.ap,new M.A(C.d,C.dQ,new F.Eu(),C.eb,null))
 L.a5()
 R.bc()
 G.bm()},
@@ -8409,7 +8409,7 @@ $.no=!0
 var z=$.$get$H().a
 z.j(0,C.bI,new M.A(C.d,C.d,new L.El(),null,null))
 z.j(0,C.bn,new M.A(C.d,C.cU,new L.Em(),C.a4,null))
-z.j(0,C.bm,new M.A(C.d,C.dy,new L.En(),C.a4,null))
+z.j(0,C.bm,new M.A(C.d,C.dx,new L.En(),C.a4,null))
 z.j(0,C.bD,new M.A(C.d,C.cW,new L.Eo(),C.a4,null))
 L.a5()
 O.aW()
@@ -8619,7 +8619,7 @@ B.pK()
 Y.pL()}}],["","",,B,{"^":"",iV:{"^":"a;a,b,c,d,e,f"}}],["","",,Z,{"^":"",
 pE:function(){if($.nj)return
 $.nj=!0
-$.$get$H().a.j(0,C.b7,new M.A(C.dj,C.da,new Z.Ek(),C.aS,null))
+$.$get$H().a.j(0,C.b7,new M.A(C.di,C.da,new Z.Ek(),C.aS,null))
 L.a5()
 X.cw()},
 Ek:{"^":"b:80;",
@@ -8639,7 +8639,7 @@ Y.pL()}}],["","",,R,{"^":"",jf:{"^":"a;",
 aS:function(a){return a instanceof P.cP||typeof a==="number"}}}],["","",,Q,{"^":"",
 pF:function(){if($.nh)return
 $.nh=!0
-$.$get$H().a.j(0,C.ba,new M.A(C.dl,C.d,new Q.Ej(),C.r,null))
+$.$get$H().a.j(0,C.ba,new M.A(C.dk,C.d,new Q.Ej(),C.r,null))
 V.aN()
 X.cw()},
 Ej:{"^":"b:1;",
@@ -8649,13 +8649,13 @@ $.pp=!0
 O.a4()}}],["","",,L,{"^":"",k3:{"^":"a;"}}],["","",,F,{"^":"",
 pG:function(){if($.ng)return
 $.ng=!0
-$.$get$H().a.j(0,C.bj,new M.A(C.dm,C.d,new F.Ei(),C.r,null))
+$.$get$H().a.j(0,C.bj,new M.A(C.dl,C.d,new F.Ei(),C.r,null))
 V.aN()},
 Ei:{"^":"b:1;",
 $0:[function(){return new L.k3()},null,null,0,0,null,"call"]}}],["","",,Y,{"^":"",k9:{"^":"a;"}}],["","",,K,{"^":"",
 pH:function(){if($.nf)return
 $.nf=!0
-$.$get$H().a.j(0,C.bl,new M.A(C.dn,C.d,new K.Eg(),C.r,null))
+$.$get$H().a.j(0,C.bl,new M.A(C.dm,C.d,new K.Eg(),C.r,null))
 V.aN()
 X.cw()},
 Eg:{"^":"b:1;",
@@ -8664,9 +8664,9 @@ pI:function(){if($.ne)return
 $.ne=!0
 var z=$.$get$H().a
 z.j(0,C.fp,new M.A(C.h,C.d,new S.Ec(),null,null))
-z.j(0,C.bb,new M.A(C.dp,C.d,new S.Ed(),C.r,null))
-z.j(0,C.bE,new M.A(C.dq,C.d,new S.Ee(),C.r,null))
-z.j(0,C.b9,new M.A(C.dk,C.d,new S.Ef(),C.r,null))
+z.j(0,C.bb,new M.A(C.dn,C.d,new S.Ed(),C.r,null))
+z.j(0,C.bE,new M.A(C.dp,C.d,new S.Ee(),C.r,null))
+z.j(0,C.b9,new M.A(C.dj,C.d,new S.Ef(),C.r,null))
 V.aN()
 O.a4()
 X.cw()},
@@ -8680,7 +8680,7 @@ Ef:{"^":"b:1;",
 $0:[function(){return new D.jd()},null,null,0,0,null,"call"]}}],["","",,M,{"^":"",l0:{"^":"a;"}}],["","",,F,{"^":"",
 pJ:function(){if($.nd)return
 $.nd=!0
-$.$get$H().a.j(0,C.bH,new M.A(C.dr,C.d,new F.Eb(),C.r,null))
+$.$get$H().a.j(0,C.bH,new M.A(C.dq,C.d,new F.Eb(),C.r,null))
 V.aN()
 X.cw()},
 Eb:{"^":"b:1;",
@@ -8688,14 +8688,14 @@ $0:[function(){return new M.l0()},null,null,0,0,null,"call"]}}],["","",,T,{"^":"
 aS:function(a){return typeof a==="string"||!!J.l(a).$isk}}}],["","",,B,{"^":"",
 pK:function(){if($.pq)return
 $.pq=!0
-$.$get$H().a.j(0,C.bM,new M.A(C.ds,C.d,new B.Ea(),C.r,null))
+$.$get$H().a.j(0,C.bM,new M.A(C.dr,C.d,new B.Ea(),C.r,null))
 V.aN()
 X.cw()},
 Ea:{"^":"b:1;",
 $0:[function(){return new T.l9()},null,null,0,0,null,"call"]}}],["","",,B,{"^":"",lA:{"^":"a;"}}],["","",,Y,{"^":"",
 pL:function(){if($.po)return
 $.po=!0
-$.$get$H().a.j(0,C.bN,new M.A(C.dt,C.d,new Y.E9(),C.r,null))
+$.$get$H().a.j(0,C.bN,new M.A(C.ds,C.d,new Y.E9(),C.r,null))
 V.aN()
 X.cw()},
 E9:{"^":"b:1;",
@@ -10723,8 +10723,8 @@ try{u=document
 z=u.createElement("div")
 J.rn(J.iH(z),"animationName")
 this.b=""
-y=C.di
-x=C.du
+y=C.dh
+x=C.dt
 for(w=0;J.M(w,J.L(y));w=J.C(w,1)){v=J.I(y,w)
 t=J.qO(J.iH(z),v)
 if((t!=null?t:"")!=null)this.c=J.I(x,w)}}catch(s){H.S(s)
@@ -11206,7 +11206,7 @@ qd:function(){if($.pe)return
 $.pe=!0}}],["","",,R,{"^":"",jr:{"^":"a;"}}],["","",,D,{"^":"",
 DI:function(){if($.pb)return
 $.pb=!0
-$.$get$H().a.j(0,C.bd,new M.A(C.h,C.d,new D.E3(),C.dD,null))
+$.$get$H().a.j(0,C.bd,new M.A(C.h,C.d,new D.E3(),C.dC,null))
 V.ak()
 T.qd()
 M.DP()
@@ -11334,7 +11334,7 @@ Dy:function(){if($.p_)return
 $.p_=!0
 var z=$.$get$H().a
 z.j(0,C.G,new M.A(C.dZ,C.d,new T.E_(),null,null))
-z.j(0,C.F,new M.A(C.cT,C.dx,new T.E0(),C.eh,null))
+z.j(0,C.F,new M.A(C.cT,C.dw,new T.E0(),C.eh,null))
 L.a5()
 V.cB()},
 lJ:{"^":"a0;k2,k3,a,b,c,d,e,f,r,x,y,z,Q,ch,cx,cy,db,dx,dy,fr,fx,fy,go,id,k1",
@@ -11535,7 +11535,7 @@ Dz:function(){if($.oZ)return
 $.oZ=!0
 var z=$.$get$H().a
 z.j(0,C.v,new M.A(C.h,C.d9,new N.DY(),null,null))
-z.j(0,C.bK,new M.A(C.d,C.dz,new N.DZ(),C.dK,null))
+z.j(0,C.bK,new M.A(C.d,C.dy,new N.DZ(),C.dJ,null))
 L.a5()},
 DY:{"^":"b:119;",
 $1:[function(a){return V.l5(a)},null,null,2,0,null,144,[],"call"]},
@@ -13890,7 +13890,7 @@ this.k3=new F.r(0,null,this,z,null,null,null,null)
 z=this.u(0)
 y=this.k3
 x=$.qt
-if(x==null){x=$.bE.bw("",0,C.c_,C.dg)
+if(x==null){x=$.bE.bw("",0,C.c_,C.dW)
 $.qt=x}w=$.cD
 v=P.aA()
 u=new V.lF(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,C.bO,x,C.l,v,z,y,C.f,!1,null,null,null,H.D([],[{func:1,v:true}]),null,[],[],null,null,C.k,null,null,!1,null,null)
@@ -14758,7 +14758,7 @@ throw H.c(new E.xU(z,b,Y.m1(t,e,y)))},function(a,b){return this.ny(a,b,null,null
 GD:[function(){return new O.cK(P.bt(null,null,null,W.cR),!1)},"$0","F2",0,0,156],
 IL:[function(){var z,y,x,w,v,u,t,s,r,q
 new F.F3().$0()
-z=[C.es,C.dW]
+z=[C.es,C.dV]
 y=$.eW
 if(y!=null){y.gtE()
 y=!0}else y=!1
@@ -15142,8 +15142,8 @@ C.cF=new P.vC(!1,255)
 C.cG=new P.vD(255)
 C.fm=H.j("cY")
 C.J=new B.h5()
-C.dH=I.h([C.fm,C.J])
-C.cJ=I.h([C.dH])
+C.dG=I.h([C.fm,C.J])
+C.cJ=I.h([C.dG])
 C.H=H.j("b9")
 C.d=I.h([])
 C.dX=I.h([C.H,C.d])
@@ -15186,8 +15186,8 @@ C.eB=new S.b8("NgValueAccessor")
 C.cr=new B.bq(C.eB)
 C.aZ=I.h([C.W,C.I,C.J,C.cr])
 C.cO=I.h([C.aL,C.S,C.Q,C.aZ])
-C.dP=I.h(['[_nghost-%COMP%] {\n    display: inline-block;\n    width: 30vw;\n    height: 80vh;\n    text-align: center;\n}\ndiv[_ngcontent-%COMP%] {\n    height: 3.3vh;\n}\ndiv.row.r0[_ngcontent-%COMP%] {\n    opacity: 0.7;\n}\ndiv.row.r2[_ngcontent-%COMP%]:after {\n    content: "Gave Over";\n    position: absolute;\n    padding: 20px;\n    border: solid 1px red;\n    border-radius: 20px;\n    background-color: yellow;\n    left:50%;\n    margin-left:-70px;\n    top: 20%;\n    color: red;\n}\n\ndiv.row[_ngcontent-%COMP%] span[_ngcontent-%COMP%] {\n    width:calc(100%/15);\n    height: 100%;\n    display: inline-block;\n    background-color: #efefef;\n    border: solid 1px #BBB;\n    box-sizing: border-box;\n    transition: 0.2s all ease-in;\n}\ndiv.row[_ngcontent-%COMP%] span.c1[_ngcontent-%COMP%] {\n    background-color: red;\n}\nspan.button[_ngcontent-%COMP%] {\n    margin: 5px;\n    padding: 5px;\n    cursor: pointer;\n    display: inline-block;\n    color: black;\n    background-color: #efefef;\n    border: solid 1px black;\n}'])
-C.cQ=I.h([C.dP])
+C.dO=I.h(['[_nghost-%COMP%] {\n    display: inline-block;\n    width: 30vw;\n    height: 80vh;\n    text-align: center;\n}\ndiv[_ngcontent-%COMP%] {\n    height: 3.3vh;\n}\ndiv.row.r0[_ngcontent-%COMP%] {\n    opacity: 0.7;\n}\ndiv.row.r2[_ngcontent-%COMP%]:after {\n    content: "Gave Over";\n    position: absolute;\n    padding: 20px;\n    border: solid 1px red;\n    border-radius: 20px;\n    background-color: yellow;\n    left:50%;\n    margin-left:-70px;\n    top: 20%;\n    color: red;\n}\n\ndiv.row[_ngcontent-%COMP%] span[_ngcontent-%COMP%] {\n    width:calc(100%/15);\n    height: 100%;\n    display: inline-block;\n    background-color: #efefef;\n    border: solid 1px #BBB;\n    box-sizing: border-box;\n    transition: 0.2s all ease-in;\n}\ndiv.row[_ngcontent-%COMP%] span.c1[_ngcontent-%COMP%] {\n    background-color: red;\n}\nspan.button[_ngcontent-%COMP%] {\n    margin: 5px;\n    padding: 5px;\n    cursor: pointer;\n    display: inline-block;\n    color: black;\n    background-color: #efefef;\n    border: solid 1px black;\n}'])
+C.cQ=I.h([C.dO])
 C.bi=H.j("GA")
 C.am=H.j("Hq")
 C.cR=I.h([C.bi,C.am])
@@ -15206,15 +15206,15 @@ C.cX=I.h([C.w,C.c5])
 C.cW=I.h([C.cX])
 C.aF=I.h([0,0,65490,45055,65535,34815,65534,18431])
 C.an=H.j("dH")
-C.dL=I.h([C.an])
+C.dK=I.h([C.an])
 C.Y=H.j("bv")
 C.a3=I.h([C.Y])
 C.ah=H.j("br")
 C.aO=I.h([C.ah])
-C.d1=I.h([C.dL,C.a3,C.aO])
+C.d1=I.h([C.dK,C.a3,C.aO])
 C.ak=H.j("ev")
-C.dJ=I.h([C.ak,C.au])
-C.aG=I.h([C.B,C.P,C.dJ])
+C.dI=I.h([C.ak,C.au])
+C.aG=I.h([C.B,C.P,C.dI])
 C.aH=I.h([C.S,C.Q])
 C.o=new B.fF()
 C.h=I.h([C.o])
@@ -15225,8 +15225,8 @@ C.b1=new S.b8("AppId")
 C.cl=new B.bq(C.b1)
 C.cY=I.h([C.w,C.cl])
 C.bL=H.j("h4")
-C.dO=I.h([C.bL])
-C.d6=I.h([C.aT,C.cY,C.dO])
+C.dN=I.h([C.bL])
+C.d6=I.h([C.aT,C.cY,C.dN])
 C.fE=H.j("dynamic")
 C.b2=new S.b8("DocumentToken")
 C.cm=new B.bq(C.b2)
@@ -15235,80 +15235,80 @@ C.E=H.j("cQ")
 C.aN=I.h([C.E])
 C.d7=I.h([C.e4,C.aN])
 C.a8=H.j("cK")
-C.dB=I.h([C.a8])
-C.d9=I.h([C.dB])
+C.dA=I.h([C.a8])
+C.d9=I.h([C.dA])
 C.da=I.h([C.aJ])
 C.aa=H.j("fs")
 C.aK=I.h([C.aa])
 C.db=I.h([C.aK])
 C.fn=H.j("fR")
-C.dI=I.h([C.fn])
-C.dc=I.h([C.dI])
+C.dH=I.h([C.fn])
+C.dc=I.h([C.dH])
 C.dd=I.h([C.a3])
 C.de=I.h([C.B])
-C.dQ=I.h([':host {\n}\nsymbol {\n  font-family: Roboto, Helvetica, Arial, sans-serif;\n  font-weight: 100;\n  color: #fff;\n}\n#bg {\n  background: linear-gradient(to bottom, #6c727c 0%, #828c95 36%, #28343b 100%);\n  width: 100vw;\n  height: 100vh;\n  opacity: 1;\n}\n#title {\n  text-align: center;\n  color: #FFC107;\n  font-size: 4vw;\n  opacity: 1;\n  transform: translateY(-200px);\n  padding-bottom: 2vh;\n  border-bottom: solid 1px #FFC107;\n}\n#subtitle {\n  opacity: 1;\n  transform: translateY(-50px);\n  font-size: 3vw;\n  color: #ddd;\n}\n#me_ava {\n  opacity: 0.5;\n  transform: translateY(180px) scaleX(0.8) scaleY(0.8);\n  overflow: hidden;\n  border-radius: 400px;\n  border: solid 1px #666;\n}\n#me {\n  font-size: 4vw;\n  border-bottom: solid 1px #AAA;\n  transform: translateY(440px);\n}\n#me_2 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(510px);\n}\n#me_3 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(540px);\n}\n#me_4 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(570px);\n}\n#me_4 a {\n  color: #DDD;\n}\n.s2 {\n}\n.s2 #title {\n  transform: translateY(-320px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.2s;\n}\n.s2 #subtitle {\n  transform: translateY(-250px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.1s;\n}\n.s2 #me_ava {\n  opacity: 1;\n  transform: translateY(-50px) scaleX(1.0) scaleY(1.0);\n}\n.s2 #me {\n  opacity: 1;\n  transform: translateY(140px);\n}\n.s2 #me_2 {\n  opacity: 1;\n  transform: translateY(210px);\n  transition-delay: 0.3s;\n}\n.s2 #me_3 {\n  opacity: 1;\n  transform: translateY(240px);\n  transition-delay: 0.4s;\n}\n.s2 #me_4 {\n  opacity: 1;\n  transform: translateY(270px);\n  transition-delay: 0.5s;\n}\n#evo {\n  transform: translateX(500px) scaleX(1.5) scaleY(1.5);\n}\n.s3 {\n}\n.s3 #me_ava {\n  opacity: 0;\n  transform: translateX(-600px) translateY(-50px) scaleX(1.0) scaleY(1.0);\n}\n.s3 #me {\n  opacity: 0;\n  transform: translateX(-600px) translateY(140px);\n}\n.s3 #me_2 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(210px);\n}\n.s3 #me_3 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(240px);\n}\n.s3 #me_4 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(270px);\n}\n.s3 #evo {\n  opacity: 1;\n  transform: translateX(0px) scaleX(1.5) scaleY(1.5);\n  transition-delay: 0.3s;\n}\n#evo, #deep {\n  backface-visibility: hidden;\n}\n#deep {\n  transform: rotateX(180deg);\n}\n.s4 {\n}\n.s4 #evo {\n  opacity: 0;\n  transform: translateX(0px) rotateX(180deg) scaleX(1.5) scaleY(1.5);\n}\n.s4 #deep {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#whycloud {\n  transform: translateY(300px) rotateX(90deg);\n}\n#whycloud img {\n  width: 90vw;\n}\n#whycloud_t {\n  color: #000;\n  font-size: 5vw;\n  font-weight: 400;\n  transform: translateX(60px) translateY(300px);\n}\n.s5 {\n}\n.s5 #title {\n  transform: translateY(-620px) scaleX(0.5) scaleY(0.5);\n}\n.s5 #subtitle {\n  transform: translateY(-550px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.2s;\n}\n.s5 #deep {\n  opacity: 0;\n  transform: translateY(-300px) rotateX(-90deg);\n  transition-delay: 0s;\n}\n.s5 #whycloud {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n.s5 #whycloud_t {\n  opacity: 1;\n  transform: translateX(60px) translateY(0px);\n  transition-delay: 0.6s;\n}\n#t {\n  transform: translateX(300px) rotateX(0deg) rotateY(-90deg);\n}\n.s6 {\n}\n.s6 #whycloud {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px) rotateX(0deg) rotateY(90deg);\n}\n.s6 #whycloud_t {\n  opacity: 0;\n  transform: translateX(-240px) translateY(0px) rotateX(0deg) rotateY(90deg);\n  transition-delay: 0s;\n}\n.s6 #t {\n  opacity: 1;\n  transform: translateX(0px) rotateX(0deg) rotateY(0deg);\n  transition-delay: 0.5s;\n}\n#wc_l1, #wc_l2, #wc_l3, #wc_l4 {\n  color: #fff;\n  padding-left: 10px;\n  border-left: solid 3px #FFC107;\n  font-size: 6vh;\n  width: 50vw;\n}\n#wc_l1 {\n  transform: translateY(300px);\n}\n#wc_l2 {\n  transform: translateY(300px);\n}\n#wc_l3 {\n  transform: translateY(300px);\n}\n#wc_l4 {\n  transform: translateY(300px);\n}\n.s7 {\n}\n.s7 #t {\n  opacity: 0;\n  transform: translateX(0px) translateY(-300px) rotateX(-90deg) rotateY(0deg);\n  transition-delay: 0s;\n}\n.s7 #wc_l1 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s8 {\n}\n.s8 #wc_l1 {\n  transform: translateY(-80px);\n}\n.s8 #wc_l2 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#wc_l2_g {\n  transform: translateX(300px) scaleX(0.9) scaleY(0.9);\n}\n.s9 {\n}\n.s9 #wc_l2_g {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.9) scaleY(0.9);\n}\n.s9 #wc_l1 {\n  opacity: 0.5;\n  transform: translateX(-50px) translateY(-80px);\n}\n.s9 #wc_l2 {\n  opacity: 0.5;\n  transform: translateX(-50px) translateY(0px);\n}\n#wc_l2_g2 {\n  transform: translateY(350px) scaleX(0.6) scaleY(0.6);\n}\n.s10 {\n}\n.s10 #wc_l2_g {\n  transform: translateX(0px) translateY(-300px) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n}\n.s10 #wc_l2_g2 {\n  opacity: 1;\n  transform: translateY(50px) scaleX(0.6) scaleY(0.6);\n}\n.s11 {\n}\n.s11 #wc_l2_g {\n  opacity: 0;\n  transform: translateX(0px) translateY(-500px) scaleX(0.3000000000000001) scaleY(0.3000000000000001);\n}\n.s11 #wc_l2_g2 {\n  opacity: 0;\n  transform: translateY(-450px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n}\n.s11 #wc_l1 {\n  opacity: 1;\n  transform: translateX(0px) translateY(-80px);\n}\n.s11 #wc_l2 {\n  opacity: 1;\n  transform: translateX(0px) translateY(0px);\n}\n.s12 {\n}\n.s12 #wc_l1 {\n  transform: translateX(0px) translateY(-160px);\n}\n.s12 #wc_l2 {\n  transform: translateX(0px) translateY(-80px);\n}\n.s12 #wc_l3 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#wc_l4_g {\n  transform: translateY(400px) scaleX(0.6) scaleY(0.6);\n}\n.s13 {\n}\n.s13 #wc_l1 {\n  transform: translateX(0px) translateY(-240px);\n}\n.s13 #wc_l2 {\n  transform: translateX(0px) translateY(-160px);\n}\n.s13 #wc_l3 {\n  transform: translateY(-80px);\n}\n.s13 #wc_l4 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s13 #wc_l4_g {\n  opacity: 1;\n  transform: translateY(150px) scaleX(0.6) scaleY(0.6);\n  transition-delay: 0.5s;\n}\n#server {\n  transform: translateX(300px) scaleX(0.1) scaleY(0.1);\n}\n#server_t {\n  font-size: 4vw;\n  transform: translateX(400px) translateY(-300px);\n}\n.s14 {\n}\n.s14 #wc_l1 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-240px);\n  transition-delay: 0.1s;\n}\n.s14 #wc_l2 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-160px);\n  transition-delay: 0.2s;\n}\n.s14 #wc_l3 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-80px);\n  transition-delay: 0.3s;\n}\n.s14 #wc_l4 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n  transition-delay: 0.4s;\n}\n.s14 #wc_l4_g {\n  opacity: 0;\n  transform: translateX(-300px) translateY(150px) scaleX(0.6) scaleY(0.6);\n}\n.s14 #server {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.6) scaleY(0.6);\n  transition-delay: 0.5s;\n}\n.s14 #server_t {\n  opacity: 1;\n  transform: translateX(0px) translateY(-300px);\n  transition-delay: 0.7s;\n}\n#process {\n  transform: translateY(300px);\n  background-color: rgba(0, 0, 0, 0.7);\n  font-size: 4vh;\n  padding: 1vh 2vh 1vh 2vw;\n  border: solid 1px #fff;\n  backface-visibility: hidden;\n}\n.s15 {\n}\n.s15 #process {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#cloud_dc {\n  transform: translateX(400px) scaleX(0.4) scaleY(0.4);\n}\n.s16 {\n}\n.s16 #process {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px) scaleX(0.2) scaleY(0.2);\n}\n.s16 #server {\n  transform: translateX(-300px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n  transition-delay: 0s;\n}\n.s16 #server_t {\n  transform: translateX(-300px) translateY(-140px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0.1s;\n}\n.s16 #cloud_dc {\n  opacity: 1;\n  transform: translateX(200px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0.3s;\n}\n.s17 {\n}\n.s17 #server_t {\n  opacity: 0;\n  transform: translateX(-500px) translateY(-140px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0s;\n}\n.s17 #server {\n  opacity: 0;\n  transform: translateX(-500px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n}\n.s17 #cloud_dc {\n  transform: translateX(0px) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n  transition-delay: 0s;\n}\n.s17 #process {\n  transform: translateX(0px) translateY(0px) scaleX(1.0) scaleY(1.0);\n}\n#process_x {\n  color: #f00;\n  font-size: 6vh;\n  transform: translateX(150px) translateY(-160px);\n}\n.s18 {\n}\n.s18 #process {\n  opacity: 1;\n}\n.s18 #process_x {\n  opacity: 1;\n}\n#process li {\n  transition: all 0.4s ease-in;\n}\n.s19 {\n}\n.s19 #process li:nth-child(1) {\n  color: #ff0;\n  background-color: rgba(100, 100, 0, 0.5);\n}\n.s19 #process_x {\n  opacity: 0;\n}\n.s20 {\n}\n.s20 #process li:nth-child(n+2):nth-child(-n+4) {\n  color: #AAF;\n  background-color: rgba(0, 0, 200, 0.5);\n}\n.s21 {\n}\n.s21 #process li:nth-child(n+5):nth-child(-n+7) {\n  color: #AFA;\n  background-color: rgba(0, 200, 0, 0.5);\n}\n#monoexample img {\n  width: 30vw;\n}\n#monoexample {\n  transform: rotateX(0deg) rotateY(180deg);\n  backface-visibility: hidden;\n}\n.s22 {\n}\n.s22 #process {\n  opacity: 0;\n  transform: translateX(0px) translateY(0px) rotateX(0deg) rotateY(180deg) scaleX(1.0) scaleY(1.0);\n}\n.s22 #monoexample {\n  opacity: 1;\n  transform: rotateX(0deg) rotateY(0deg);\n}\n#monoexamplem img {\n  width: 30vw;\n}\n#monoexamplem {\n  transform: rotateX(0deg) rotateY(-180deg);\n  backface-visibility: hidden;\n}\n.s23 {\n}\n.s23 #monoexample {\n  opacity: 0;\n  transform: rotateX(0deg) rotateY(180deg);\n}\n.s23 #monoexamplem {\n  opacity: 1;\n  transform: rotateX(0deg) rotateY(0deg);\n}\n#t2 {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n.s24 {\n}\n.s24 #monoexamplem {\n  opacity: 0;\n  transform: translateY(200px) rotateX(80deg) rotateY(0deg);\n}\n.s24 #t2 {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n}\n#glass {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n#glass img {\n  width: 90vw;\n}\n#should_we {\n  transform: translateY(-490px);\n  font-size: 3.5vw;\n  width: 90vw;\n  text-align: center;\n}\n.s25 {\n}\n.s25 #t2 {\n  opacity: 0;\n  transform: translateY(500px) rotateX(90deg);\n}\n.s25 #cloud_dc {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px) rotateX(90deg) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n  transition-delay: 0.1s;\n}\n.s25 #glass {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n.s25 #should_we {\n  opacity: 1;\n  transform: translateY(-290px);\n  transition-delay: 0.6s;\n}\n#t3 {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n.s26 {\n}\n.s26 #glass {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg);\n  transition-delay: 0.2s;\n}\n.s26 #should_we {\n  opacity: 0;\n  transform: translateY(510px);\n  transition-delay: 0s;\n}\n.s26 #t3 {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.5s;\n}\n#providers {\n  transform: translateY(-300px);\n  font-size: 6vh;\n}\n#providers span {\n  display: inline-block;\n  width: 15vw;\n  color: #FFC107;\n  font-weight: 400;\n}\n.s27 {\n}\n.s27 #t3 {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s27 #providers {\n  opacity: 1;\n  transform: translateY(0px);\n  transition-delay: 0.2s;\n}\nul.bul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\nul.bul li:before {\n  content: "\u21db";\n  font-size: 8vh;\n  color: #FFC107;\n}\n#cneeds {\n  transform: translateX(400px);\n  font-size: 6.5vh;\n}\n.s28 {\n}\n.s28 #providers {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n}\n.s28 #cneeds {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#azuresf {\n  transform: translateX(400px);\n}\n#azuresf img {\n  width: 90vw;\n}\n.s29 {\n}\n.s29 #cneeds {\n  opacity: 0;\n  transform: translateX(-400px);\n}\n.s29 #azuresf {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s30 {\n}\n.s30 #vendor {\n  opacity: 1;\n  transform: scaleX(2.2) scaleY(2.2);\n}\n#kube {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n#kube img {\n  width: 60vw;\n}\n.s31 {\n}\n.s31 #vendor {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg) scaleX(2.2) scaleY(2.2);\n}\n.s31 #azuresf {\n  opacity: 0;\n  transform: translateX(0px) translateY(400px) rotateX(90deg);\n}\n.s31 #kube {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#kube_ex {\n  transform: translateX(-400px);\n}\n.s32 {\n}\n.s32 #kube {\n  opacity: 0;\n  transform: translateX(400px) translateY(0px) rotateX(0deg);\n}\n.s32 #kube_ex {\n  opacity: 1;\n  transform: translateX(0px);\n}\npre {\n  font-size: 1.7vw;\n}\n#fight {\n  transform: translateY(-500px);\n  backface-visibility: hidden;\n}\n#fight img {\n  width: 90vw;\n}\n#statefull, #stateless {\n  font-size: 5vw;\n  font-weight: 400;\n}\n#statefull {\n  transform: translateX(-500px);\n}\n#stateless {\n  transform: translateX(500px);\n}\n.s33 {\n}\n.s33 #kube_ex {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px);\n  transition-delay: 0.1s;\n}\n.s33 #fight {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s33 #statefull {\n  opacity: 1;\n  transform: translateX(-200px);\n  transition-delay: 0.6s;\n}\n.s33 #stateless {\n  opacity: 1;\n  transform: translateX(200px);\n  transition-delay: 0.8s;\n}\n#petvscattle {\n  transform: rotateX(-90deg);\n  backface-visibility: hidden;\n}\n#petvscattle img {\n  width: 60vw;\n}\n.s34 {\n}\n.s34 #fight {\n  opacity: 0;\n  transform: translateY(0px) rotateX(90deg);\n}\n.s34 #statefull {\n  opacity: 0;\n  transform: translateX(-200px) translateY(-150px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s34 #stateless {\n  opacity: 0;\n  transform: translateX(200px) translateY(-150px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s34 #petvscattle {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.4s;\n}\n#petexamples {\n  transform: translateX(500px);\n  background-color: rgba(0, 0, 0, 0.8);\n  padding: 2vw;\n}\n#petexamples b {\n  color: #FFC107;\n  font-weight: 100;\n}\n#petexamples .cap {\n  color: #FFC107;\n  font-weight: 400;\n}\n.s35 {\n}\n.s35 #petvscattle {\n  opacity: 0.4;\n  transform: rotateX(0deg) scaleX(0.9) scaleY(0.9);\n  transition-delay: 0s;\n}\n.s35 #petexamples {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#communication {\n  transform: translateY(-300px);\n}\n#communication_t {\n  transform: translateY(-500px);\n  font-size: 6vw;\n}\n.s36 {\n}\n.s36 #petvscattle {\n  opacity: 0;\n  transform: translateY(300px) rotateX(0deg) scaleX(0.9) scaleY(0.9);\n}\n.s36 #petexamples {\n  opacity: 0;\n  transform: translateX(0px) translateY(300px);\n  transition-delay: 0.2s;\n}\n.s36 #communication {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s36 #communication_t {\n  opacity: 1;\n  transform: translateY(-200px);\n}\n#com_ex {\n  transform: translateY(500px);\n}\n.s37 {\n}\n.s37 #com_ex {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s37 #communication {\n  transform: translateY(-100px);\n}\n.s37 #communication_t {\n  transform: translateY(-280px);\n  transition-delay: 0s;\n}\n#com_ex2 {\n  transform: translateY(560px);\n}\n.s38 {\n}\n.s38 #communication {\n  transform: translateY(-180px);\n}\n.s38 #communication_t {\n  transform: translateY(-340px);\n}\n.s38 #com_ex {\n  transform: translateY(-100px);\n}\n.s38 #com_ex2 {\n  opacity: 1;\n  transform: translateY(60px);\n}\n#com_f {\n  transform: translateX(400px);\n  background-color: rgba(0, 0, 0, 0.6);\n  font-size: 4vw;\n  padding: 2vw;\n}\n.s39 {\n}\n.s39 #com_ex {\n  opacity: 0;\n  transform: translateX(-500px) translateY(-100px);\n}\n.s39 #com_ex2 {\n  opacity: 0;\n  transform: translateX(-500px) translateY(60px);\n}\n.s39 #com_f {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#grpc {\n  transform: translateX(400px) scaleX(0.5) scaleY(0.5);\n}\n.s39 {\n}\n.s39 #com_f {\n  opacity: 0;\n  transform: translateX(-400px);\n}\n.s39 #grpc {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.5) scaleY(0.5);\n}\n#grpc_ex {\n  transform: translateX(400px);\n}\n.s40 {\n}\n.s40 #grpc {\n  opacity: 0.4;\n  transform: translateX(0px) scaleX(0.4) scaleY(0.4);\n}\n.s40 #grpc_ex {\n  opacity: 1;\n  transform: translateX(0px);\n  transition-delay: 0.3s;\n}\n#pubsub {\n  transform: translateY(-300px) scaleX(1.4) scaleY(1.4);\n}\n.s41 {\n}\n.s41 #grpc {\n  opacity: 0;\n}\n.s41 #grpc_ex {\n  opacity: 0;\n  transform: translateX(0px) translateY(400px);\n}\n.s41 #communication {\n  opacity: 0;\n  transform: translateY(320px);\n}\n.s41 #pubsub {\n  opacity: 1;\n  transform: translateY(0px) scaleX(1.4) scaleY(1.4);\n  transition-delay: 0.3s;\n}\n#rabbit {\n  transform: translateY(-400px);\n  background-color: rgba(255, 255, 255, 0.8);\n}\n.s42 {\n}\n.s42 #rabbit {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s42 #pubsub {\n  opacity: 0.3;\n  transform: translateY(200px) scaleX(1.4) scaleY(1.4);\n}\n#rabbit_h {\n  transform: translateY(-100px);\n}\n#rabbit_h img {\n  width: 80vh;\n}\n.s43 {\n}\n.s43 #pubsub {\n  opacity: 0;\n  transform: translateY(700px) scaleX(1.4) scaleY(1.4);\n}\n.s43 #rabbit {\n  transform: translateY(-180px);\n}\n.s43 #rabbit_h {\n  opacity: 1;\n  transform: translateY(120px);\n}\n#kafka {\n  transform: translateY(-400px);\n}\n.s44 {\n}\n.s44 #kafka {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s44 #rabbit {\n  opacity: 0.4;\n  transform: translateY(170px);\n  transition-delay: 0.2s;\n}\n.s44 #rabbit_h {\n  opacity: 0;\n  transform: translateY(390px);\n  transition-delay: 0.3s;\n}\n.s44 #pubsub {\n  transform: translateY(900px) scaleX(1.4) scaleY(1.4);\n}\n#kafka_d {\n  transform: translateY(-200px);\n  font-size: 3vw;\n  text-align: justify;\n  width: 80vw;\n  padding: 1vh;\n  background-color: rgba(0, 0, 0, 0.3);\n}\n#kafka_d b {\n  color: #FFC107;\n}\n#kafka_d2 {\n  transform: translateY(100px) rotateX(-90deg);\n  font-size: 3vw;\n  text-align: justify;\n  width: 60vw;\n  padding: 1vh;\n  background-color: rgba(0, 0, 0, 0.3);\n}\n#kafka_d2 b {\n  color: #FFC107;\n}\n.s45 {\n}\n.s45 #rabbit {\n  opacity: 0;\n  transform: translateY(520px);\n}\n.s45 #kafka_d {\n  opacity: 1;\n  transform: translateY(130px);\n}\n.s45 #kafka {\n  transform: translateY(-150px);\n}\n.s46 {\n}\n.s46 #kafka {\n  transform: translateY(-100px);\n}\n.s46 #kafka_d {\n  opacity: 0;\n  transform: translateY(130px) rotateX(90deg);\n}\n.s46 #kafka_d2 {\n  opacity: 1;\n  transform: translateY(100px) rotateX(0deg);\n  transition-delay: 0.2s;\n}\n#kafka_ar {\n  transform: translateY(150px) rotateX(-90deg);\n}\n#kafka_ar img {\n  width: 60vw;\n}\n.s47 {\n}\n.s47 #kafka {\n  transform: translateY(-200px);\n  transition-delay: 0.3s;\n}\n.s47 #kafka_d2 {\n  opacity: 0;\n  transform: translateY(100px) rotateX(90deg);\n}\n.s47 #kafka_ar {\n  opacity: 1;\n  transform: translateY(150px) rotateX(0deg);\n  transition-delay: 0.2s;\n}\n#pubsub_providers {\n  transform: translateY(-300px);\n  font-size: 5vh;\n  width: 60vw;\n}\n#pubsub_providers span {\n  display: inline-block;\n  width: 15vw;\n  color: #FFC107;\n  font-weight: 400;\n}\n.s48 {\n}\n.s48 #kafka {\n  opacity: 0;\n  transform: translateY(300px);\n  transition-delay: 0s;\n}\n.s48 #kafka_ar {\n  opacity: 0;\n  transform: translateY(650px) rotateX(0deg);\n}\n.s48 #pubsub_providers {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#spotify_o {\n  transform: translateX(500px);\n}\n#spotify_o img {\n  width: 70vw;\n}\n#spotify_logo {\n  transform: translateY(-500px);\n}\n.s49 {\n}\n.s49 #pubsub_providers {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n  transition-delay: 0.2s;\n}\n.s49 #communication_t {\n  opacity: 0;\n  transform: translateY(-540px);\n}\n.s49 #spotify_o {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s49 #spotify_logo {\n  opacity: 1;\n  transform: translateY(-300px);\n  transition-delay: 0.5s;\n}\n#spotify {\n  transform: rotateX(-90deg);\n}\n#spotify img {\n  width: 70vw;\n}\n.s50 {\n}\n.s50 #spotify_o {\n  opacity: 0;\n  transform: translateX(0px) rotateX(90deg);\n}\n.s50 #spotify {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#spotify_r {\n  transform: rotateX(-90deg);\n}\n.s51 {\n}\n.s51 #spotify {\n  opacity: 0;\n  transform: rotateX(90deg);\n}\n.s51 #spotify_r {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#summary {\n  transform: translateX(400px);\n  font-size: 4.3vh;\n}\n#summary > ul > li {\n  color: #FFC107;\n  font-weight: 400;\n  opacity: 0;\n  transition: all 0.3s ease-in;\n  transform: translateX(200px);\n}\n#summary ul li ul li {\n  color: #fff;\n  font-weight: 100;\n}\n.s52 {\n}\n.s52 #spotify_logo {\n  opacity: 0;\n  transform: translateY(-500px);\n  transition-delay: 0s;\n}\n.s52 #spotify_r {\n  opacity: 0;\n  transform: translateY(400px) rotateX(0deg);\n  transition-delay: 0s;\n}\n.s52 #summary {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s52 #summary > ul > li:nth-child(1) {\n  opacity: 1;\n  transform: none;\n}\n.s53 {\n}\n.s53 #summary > ul > li:nth-child(2) {\n  opacity: 1;\n  transform: none;\n}\n.s54 {\n}\n.s54 #summary > ul > li:nth-child(3) {\n  opacity: 1;\n  transform: none;\n}\n.s55 {\n}\n.s55 #summary > ul > li:nth-child(4) {\n  opacity: 1;\n  transform: none;\n}\n.s56 {\n}\n.s56 #summary > ul > li:nth-child(5) {\n  opacity: 1;\n  transform: none;\n}\n.s57 {\n}\n.s57 #summary > ul > li:nth-child(6) {\n  opacity: 1;\n  transform: none;\n}\n#thnx {\n  font-size: 8vw;\n  transform: translateY(-400px);\n}\n#url {\n  transform: translateY(-400px);\n}\n.s58 {\n}\n.s58 #summary {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px);\n}\n.s58 #thnx {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s58 #url {\n  opacity: 1;\n  transform: translateY(0px);\n}\n[name="t"] {\n  z-index: 1000;\n}\n[name="t2"] {\n  z-index: 1000;\n}\n[name="t3"] {\n  z-index: 1000;\n}\n[name="kube_ex"] {\n  z-index: 900;\n}'])
-C.dg=I.h([C.dQ])
 C.Z=H.j("Hs")
 C.C=H.j("Hr")
-C.dh=I.h([C.Z,C.C])
-C.di=I.h(["WebkitTransition","MozTransition","OTransition","transition"])
+C.dg=I.h([C.Z,C.C])
+C.dh=I.h(["WebkitTransition","MozTransition","OTransition","transition"])
 C.eG=new O.bx("async",!1)
-C.dj=I.h([C.eG,C.o])
+C.di=I.h([C.eG,C.o])
 C.eH=new O.bx("currency",null)
-C.dk=I.h([C.eH,C.o])
+C.dj=I.h([C.eH,C.o])
 C.eI=new O.bx("date",!0)
-C.dl=I.h([C.eI,C.o])
+C.dk=I.h([C.eI,C.o])
 C.eJ=new O.bx("json",!1)
-C.dm=I.h([C.eJ,C.o])
+C.dl=I.h([C.eJ,C.o])
 C.eK=new O.bx("lowercase",null)
-C.dn=I.h([C.eK,C.o])
+C.dm=I.h([C.eK,C.o])
 C.eL=new O.bx("number",null)
-C.dp=I.h([C.eL,C.o])
+C.dn=I.h([C.eL,C.o])
 C.eM=new O.bx("percent",null)
-C.dq=I.h([C.eM,C.o])
+C.dp=I.h([C.eM,C.o])
 C.eN=new O.bx("replace",null)
-C.dr=I.h([C.eN,C.o])
+C.dq=I.h([C.eN,C.o])
 C.eO=new O.bx("slice",!1)
-C.ds=I.h([C.eO,C.o])
+C.dr=I.h([C.eO,C.o])
 C.eP=new O.bx("uppercase",null)
-C.dt=I.h([C.eP,C.o])
-C.du=I.h(["webkitTransitionEnd","transitionend","oTransitionEnd otransitionend","transitionend"])
+C.ds=I.h([C.eP,C.o])
+C.dt=I.h(["webkitTransitionEnd","transitionend","oTransitionEnd otransitionend","transitionend"])
 C.c4=new O.ea("ngPluralCase")
 C.e5=I.h([C.w,C.c4])
-C.dv=I.h([C.e5,C.P,C.B])
-C.dx=I.h([C.A,C.aN,C.z])
+C.du=I.h([C.e5,C.P,C.B])
+C.dw=I.h([C.A,C.aN,C.z])
 C.c2=new O.ea("maxlength")
 C.df=I.h([C.w,C.c2])
-C.dy=I.h([C.df])
+C.dx=I.h([C.df])
 C.v=H.j("eB")
-C.dN=I.h([C.v])
-C.dz=I.h([C.dN,C.A,C.B])
+C.dM=I.h([C.v])
+C.dy=I.h([C.dM,C.A,C.B])
 C.f8=H.j("FJ")
-C.dA=I.h([C.f8])
+C.dz=I.h([C.f8])
 C.b8=H.j("bj")
 C.O=I.h([C.b8])
 C.bc=H.j("G1")
 C.aM=I.h([C.bc])
 C.ae=H.j("G6")
-C.dD=I.h([C.ae])
-C.dE=I.h([C.bi])
+C.dC=I.h([C.ae])
+C.dD=I.h([C.bi])
 C.aR=I.h([C.am])
 C.aS=I.h([C.C])
-C.dK=I.h([C.Z])
+C.dJ=I.h([C.Z])
 C.fq=H.j("Hx")
 C.r=I.h([C.fq])
 C.fz=H.j("dM")
 C.a4=I.h([C.fz])
 C.bk=H.j("cV")
 C.aQ=I.h([C.bk])
-C.dR=I.h([C.aP,C.aQ,C.z,C.A])
+C.dP=I.h([C.aP,C.aQ,C.z,C.A])
 C.ao=H.j("ey")
-C.dM=I.h([C.ao])
-C.dS=I.h([C.A,C.z,C.dM,C.aO])
-C.dU=I.h(["/","\\"])
-C.dV=I.h([C.aQ,C.z])
+C.dL=I.h([C.ao])
+C.dQ=I.h([C.A,C.z,C.dL,C.aO])
+C.dS=I.h(["/","\\"])
+C.dU=I.h([C.aQ,C.z])
 C.eZ=new Y.an(C.a8,null,"__noValueProvided__",null,F.F2(),null,C.d,null)
-C.dW=I.h([C.eZ])
+C.dV=I.h([C.eZ])
+C.dT=I.h([':host {\n}\nsymbol {\n  font-family: Roboto, Helvetica, Arial, sans-serif;\n  font-weight: 100;\n  color: #fff;\n}\n#bg {\n  background: linear-gradient(to bottom, #6c727c 0%, #828c95 36%, #28343b 100%);\n  width: 100vw;\n  height: 100vh;\n  opacity: 1;\n}\n#title {\n  text-align: center;\n  color: #FFC107;\n  font-size: 4vw;\n  opacity: 1;\n  transform: translateY(-200px);\n  padding-bottom: 2vh;\n  border-bottom: solid 1px #FFC107;\n}\n#subtitle {\n  opacity: 1;\n  transform: translateY(-50px);\n  font-size: 3vw;\n  color: #ddd;\n}\n#me_ava {\n  opacity: 0.5;\n  transform: translateY(180px) scaleX(0.8) scaleY(0.8);\n  overflow: hidden;\n  border-radius: 400px;\n  border: solid 1px #666;\n}\n#me {\n  font-size: 4vw;\n  border-bottom: solid 1px #AAA;\n  transform: translateY(440px);\n}\n#me_2 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(510px);\n}\n#me_3 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(540px);\n}\n#me_4 {\n  font-size: 2vw;\n  color: #DDD;\n  transform: translateY(570px);\n}\n#me_4 a {\n  color: #DDD;\n}\n.s2 {\n}\n.s2 #title {\n  transform: translateY(-320px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.2s;\n}\n.s2 #subtitle {\n  transform: translateY(-250px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.1s;\n}\n.s2 #me_ava {\n  opacity: 1;\n  transform: translateY(-50px) scaleX(1.0) scaleY(1.0);\n}\n.s2 #me {\n  opacity: 1;\n  transform: translateY(140px);\n}\n.s2 #me_2 {\n  opacity: 1;\n  transform: translateY(210px);\n  transition-delay: 0.3s;\n}\n.s2 #me_3 {\n  opacity: 1;\n  transform: translateY(240px);\n  transition-delay: 0.4s;\n}\n.s2 #me_4 {\n  opacity: 1;\n  transform: translateY(270px);\n  transition-delay: 0.5s;\n}\n#evo {\n  transform: translateX(500px) scaleX(1.5) scaleY(1.5);\n}\n.s3 {\n}\n.s3 #me_ava {\n  opacity: 0;\n  transform: translateX(-600px) translateY(-50px) scaleX(1.0) scaleY(1.0);\n}\n.s3 #me {\n  opacity: 0;\n  transform: translateX(-600px) translateY(140px);\n}\n.s3 #me_2 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(210px);\n}\n.s3 #me_3 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(240px);\n}\n.s3 #me_4 {\n  opacity: 0;\n  transform: translateX(-600px) translateY(270px);\n}\n.s3 #evo {\n  opacity: 1;\n  transform: translateX(0px) scaleX(1.5) scaleY(1.5);\n  transition-delay: 0.3s;\n}\n#evo, #deep {\n  backface-visibility: hidden;\n}\n#deep {\n  transform: rotateX(180deg);\n}\n.s4 {\n}\n.s4 #evo {\n  opacity: 0;\n  transform: translateX(0px) rotateX(180deg) scaleX(1.5) scaleY(1.5);\n}\n.s4 #deep {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#whycloud {\n  transform: translateY(300px) rotateX(90deg);\n}\n#whycloud img {\n  width: 90vw;\n}\n#whycloud_t {\n  color: #000;\n  font-size: 5vw;\n  font-weight: 400;\n  transform: translateX(60px) translateY(300px);\n}\n.s5 {\n}\n.s5 #title {\n  transform: translateY(-620px) scaleX(0.5) scaleY(0.5);\n}\n.s5 #subtitle {\n  transform: translateY(-550px) scaleX(0.5) scaleY(0.5);\n  transition-delay: 0.2s;\n}\n.s5 #deep {\n  opacity: 0;\n  transform: translateY(-300px) rotateX(-90deg);\n  transition-delay: 0s;\n}\n.s5 #whycloud {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n.s5 #whycloud_t {\n  opacity: 1;\n  transform: translateX(60px) translateY(0px);\n  transition-delay: 0.6s;\n}\n#t {\n  transform: translateX(300px) rotateX(0deg) rotateY(-90deg);\n}\n.s6 {\n}\n.s6 #whycloud {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px) rotateX(0deg) rotateY(90deg);\n}\n.s6 #whycloud_t {\n  opacity: 0;\n  transform: translateX(-240px) translateY(0px) rotateX(0deg) rotateY(90deg);\n  transition-delay: 0s;\n}\n.s6 #t {\n  opacity: 1;\n  transform: translateX(0px) rotateX(0deg) rotateY(0deg);\n  transition-delay: 0.5s;\n}\n#wc_l1, #wc_l2, #wc_l3, #wc_l4 {\n  color: #fff;\n  padding-left: 10px;\n  border-left: solid 3px #FFC107;\n  font-size: 6vh;\n  width: 50vw;\n}\n#wc_l1 {\n  transform: translateY(300px);\n}\n#wc_l2 {\n  transform: translateY(300px);\n}\n#wc_l3 {\n  transform: translateY(300px);\n}\n#wc_l4 {\n  transform: translateY(300px);\n}\n.s7 {\n}\n.s7 #t {\n  opacity: 0;\n  transform: translateX(0px) translateY(-300px) rotateX(-90deg) rotateY(0deg);\n  transition-delay: 0s;\n}\n.s7 #wc_l1 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s8 {\n}\n.s8 #wc_l1 {\n  transform: translateY(-80px);\n}\n.s8 #wc_l2 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#wc_l2_g {\n  transform: translateX(300px) scaleX(0.9) scaleY(0.9);\n}\n.s9 {\n}\n.s9 #wc_l2_g {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.9) scaleY(0.9);\n}\n.s9 #wc_l1 {\n  opacity: 0.5;\n  transform: translateX(-50px) translateY(-80px);\n}\n.s9 #wc_l2 {\n  opacity: 0.5;\n  transform: translateX(-50px) translateY(0px);\n}\n#wc_l2_g2 {\n  transform: translateY(350px) scaleX(0.6) scaleY(0.6);\n}\n.s10 {\n}\n.s10 #wc_l2_g {\n  transform: translateX(0px) translateY(-300px) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n}\n.s10 #wc_l2_g2 {\n  opacity: 1;\n  transform: translateY(50px) scaleX(0.6) scaleY(0.6);\n}\n.s11 {\n}\n.s11 #wc_l2_g {\n  opacity: 0;\n  transform: translateX(0px) translateY(-500px) scaleX(0.3000000000000001) scaleY(0.3000000000000001);\n}\n.s11 #wc_l2_g2 {\n  opacity: 0;\n  transform: translateY(-450px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n}\n.s11 #wc_l1 {\n  opacity: 1;\n  transform: translateX(0px) translateY(-80px);\n}\n.s11 #wc_l2 {\n  opacity: 1;\n  transform: translateX(0px) translateY(0px);\n}\n.s12 {\n}\n.s12 #wc_l1 {\n  transform: translateX(0px) translateY(-160px);\n}\n.s12 #wc_l2 {\n  transform: translateX(0px) translateY(-80px);\n}\n.s12 #wc_l3 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#wc_l4_g {\n  transform: translateY(400px) scaleX(0.6) scaleY(0.6);\n}\n.s13 {\n}\n.s13 #wc_l1 {\n  transform: translateX(0px) translateY(-240px);\n}\n.s13 #wc_l2 {\n  transform: translateX(0px) translateY(-160px);\n}\n.s13 #wc_l3 {\n  transform: translateY(-80px);\n}\n.s13 #wc_l4 {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s13 #wc_l4_g {\n  opacity: 1;\n  transform: translateY(150px) scaleX(0.6) scaleY(0.6);\n  transition-delay: 0.5s;\n}\n#server {\n  transform: translateX(300px) scaleX(0.1) scaleY(0.1);\n}\n#server_t {\n  font-size: 4vw;\n  transform: translateX(400px) translateY(-300px);\n}\n.s14 {\n}\n.s14 #wc_l1 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-240px);\n  transition-delay: 0.1s;\n}\n.s14 #wc_l2 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-160px);\n  transition-delay: 0.2s;\n}\n.s14 #wc_l3 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(-80px);\n  transition-delay: 0.3s;\n}\n.s14 #wc_l4 {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n  transition-delay: 0.4s;\n}\n.s14 #wc_l4_g {\n  opacity: 0;\n  transform: translateX(-300px) translateY(150px) scaleX(0.6) scaleY(0.6);\n}\n.s14 #server {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.6) scaleY(0.6);\n  transition-delay: 0.5s;\n}\n.s14 #server_t {\n  opacity: 1;\n  transform: translateX(0px) translateY(-300px);\n  transition-delay: 0.7s;\n}\n#process {\n  transform: translateY(300px);\n  background-color: rgba(0, 0, 0, 0.7);\n  font-size: 4vh;\n  padding: 1vh 2vh 1vh 2vw;\n  border: solid 1px #fff;\n  backface-visibility: hidden;\n}\n.s15 {\n}\n.s15 #process {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#cloud_dc {\n  transform: translateX(400px) scaleX(0.4) scaleY(0.4);\n}\n.s16 {\n}\n.s16 #process {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px) scaleX(0.2) scaleY(0.2);\n}\n.s16 #server {\n  transform: translateX(-300px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n  transition-delay: 0s;\n}\n.s16 #server_t {\n  transform: translateX(-300px) translateY(-140px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0.1s;\n}\n.s16 #cloud_dc {\n  opacity: 1;\n  transform: translateX(200px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0.3s;\n}\n.s17 {\n}\n.s17 #server_t {\n  opacity: 0;\n  transform: translateX(-500px) translateY(-140px) scaleX(0.4) scaleY(0.4);\n  transition-delay: 0s;\n}\n.s17 #server {\n  opacity: 0;\n  transform: translateX(-500px) scaleX(0.19999999999999996) scaleY(0.19999999999999996);\n}\n.s17 #cloud_dc {\n  transform: translateX(0px) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n  transition-delay: 0s;\n}\n.s17 #process {\n  transform: translateX(0px) translateY(0px) scaleX(1.0) scaleY(1.0);\n}\n#process_x {\n  color: #f00;\n  font-size: 6vh;\n  transform: translateX(150px) translateY(-160px);\n}\n.s18 {\n}\n.s18 #process {\n  opacity: 1;\n}\n.s18 #process_x {\n  opacity: 1;\n}\n#process li {\n  transition: all 0.4s ease-in;\n}\n.s19 {\n}\n.s19 #process li:nth-child(1) {\n  color: #ff0;\n  background-color: rgba(100, 100, 0, 0.5);\n}\n.s19 #process_x {\n  opacity: 0;\n}\n.s20 {\n}\n.s20 #process li:nth-child(n+2):nth-child(-n+4) {\n  color: #AAF;\n  background-color: rgba(0, 0, 200, 0.5);\n}\n.s21 {\n}\n.s21 #process li:nth-child(n+5):nth-child(-n+7) {\n  color: #AFA;\n  background-color: rgba(0, 200, 0, 0.5);\n}\n#monoexample img {\n  width: 30vw;\n}\n#monoexample {\n  transform: rotateX(0deg) rotateY(180deg);\n  backface-visibility: hidden;\n}\n.s22 {\n}\n.s22 #process {\n  opacity: 0;\n  transform: translateX(0px) translateY(0px) rotateX(0deg) rotateY(180deg) scaleX(1.0) scaleY(1.0);\n}\n.s22 #monoexample {\n  opacity: 1;\n  transform: rotateX(0deg) rotateY(0deg);\n}\n#monoexamplem img {\n  width: 30vw;\n}\n#monoexamplem {\n  transform: rotateX(0deg) rotateY(-180deg);\n  backface-visibility: hidden;\n}\n.s23 {\n}\n.s23 #monoexample {\n  opacity: 0;\n  transform: rotateX(0deg) rotateY(180deg);\n}\n.s23 #monoexamplem {\n  opacity: 1;\n  transform: rotateX(0deg) rotateY(0deg);\n}\n#t2 {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n.s24 {\n}\n.s24 #monoexamplem {\n  opacity: 0;\n  transform: translateY(200px) rotateX(80deg) rotateY(0deg);\n}\n.s24 #t2 {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n}\n#glass {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n#glass img {\n  width: 90vw;\n}\n#should_we {\n  transform: translateY(-490px);\n  font-size: 3.5vw;\n  width: 90vw;\n  text-align: center;\n}\n.s25 {\n}\n.s25 #t2 {\n  opacity: 0;\n  transform: translateY(500px) rotateX(90deg);\n}\n.s25 #cloud_dc {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px) rotateX(90deg) scaleX(0.6000000000000001) scaleY(0.6000000000000001);\n  transition-delay: 0.1s;\n}\n.s25 #glass {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n.s25 #should_we {\n  opacity: 1;\n  transform: translateY(-290px);\n  transition-delay: 0.6s;\n}\n#t3 {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n.s26 {\n}\n.s26 #glass {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg);\n  transition-delay: 0.2s;\n}\n.s26 #should_we {\n  opacity: 0;\n  transform: translateY(510px);\n  transition-delay: 0s;\n}\n.s26 #t3 {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.5s;\n}\n#providers {\n  transform: translateY(-300px);\n  font-size: 6vh;\n}\n#providers span {\n  display: inline-block;\n  width: 15vw;\n  color: #FFC107;\n  font-weight: 400;\n}\n.s27 {\n}\n.s27 #t3 {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s27 #providers {\n  opacity: 1;\n  transform: translateY(0px);\n  transition-delay: 0.2s;\n}\nul.bul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\nul.bul li:before {\n  content: "\u21db";\n  font-size: 8vh;\n  color: #FFC107;\n}\n#cneeds {\n  transform: translateX(400px);\n  font-size: 6.5vh;\n}\n.s28 {\n}\n.s28 #providers {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n}\n.s28 #cneeds {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#azuresf {\n  transform: translateX(400px);\n}\n#azuresf img {\n  width: 90vw;\n}\n.s29 {\n}\n.s29 #cneeds {\n  opacity: 0;\n  transform: translateX(-400px);\n}\n.s29 #azuresf {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s30 {\n}\n.s30 #vendor {\n  opacity: 1;\n  transform: scaleX(2.2) scaleY(2.2);\n}\n#kube {\n  transform: translateY(-300px) rotateX(-90deg);\n}\n#kube img {\n  width: 60vw;\n}\n.s31 {\n}\n.s31 #vendor {\n  opacity: 0;\n  transform: translateY(300px) rotateX(90deg) scaleX(2.2) scaleY(2.2);\n}\n.s31 #azuresf {\n  opacity: 0;\n  transform: translateX(0px) translateY(400px) rotateX(90deg);\n}\n.s31 #kube {\n  opacity: 1;\n  transform: translateY(0px) rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#kube_ex {\n  transform: translateX(-400px);\n}\n.s32 {\n}\n.s32 #kube {\n  opacity: 0;\n  transform: translateX(400px) translateY(0px) rotateX(0deg);\n}\n.s32 #kube_ex {\n  opacity: 1;\n  transform: translateX(0px);\n}\npre {\n  font-size: 1.7vw;\n}\n#fight {\n  transform: translateY(-500px);\n  backface-visibility: hidden;\n}\n#fight img {\n  width: 90vw;\n}\n#statefull, #stateless {\n  font-size: 5vw;\n  font-weight: 400;\n}\n#statefull {\n  transform: translateX(-500px);\n}\n#stateless {\n  transform: translateX(500px);\n}\n.s33 {\n}\n.s33 #kube_ex {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px);\n  transition-delay: 0.1s;\n}\n.s33 #fight {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s33 #statefull {\n  opacity: 1;\n  transform: translateX(-200px);\n  transition-delay: 0.6s;\n}\n.s33 #stateless {\n  opacity: 1;\n  transform: translateX(200px);\n  transition-delay: 0.8s;\n}\n#petvscattle {\n  transform: rotateX(-90deg);\n  backface-visibility: hidden;\n}\n#petvscattle img {\n  width: 60vw;\n}\n.s34 {\n}\n.s34 #fight {\n  opacity: 0;\n  transform: translateY(0px) rotateX(90deg);\n}\n.s34 #statefull {\n  opacity: 0;\n  transform: translateX(-200px) translateY(-150px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s34 #stateless {\n  opacity: 0;\n  transform: translateX(200px) translateY(-150px) rotateX(90deg);\n  transition-delay: 0s;\n}\n.s34 #petvscattle {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.4s;\n}\n#petexamples {\n  transform: translateX(500px);\n  background-color: rgba(0, 0, 0, 0.8);\n  padding: 2vw;\n}\n#petexamples b {\n  color: #FFC107;\n  font-weight: 100;\n}\n#petexamples .cap {\n  color: #FFC107;\n  font-weight: 400;\n}\n.s35 {\n}\n.s35 #petvscattle {\n  opacity: 0.4;\n  transform: rotateX(0deg) scaleX(0.9) scaleY(0.9);\n  transition-delay: 0s;\n}\n.s35 #petexamples {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#communication {\n  transform: translateY(-300px);\n}\n#communication_t {\n  transform: translateY(-500px);\n  font-size: 6vw;\n}\n.s36 {\n}\n.s36 #petvscattle {\n  opacity: 0;\n  transform: translateY(300px) rotateX(0deg) scaleX(0.9) scaleY(0.9);\n}\n.s36 #petexamples {\n  opacity: 0;\n  transform: translateX(0px) translateY(300px);\n  transition-delay: 0.2s;\n}\n.s36 #communication {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s36 #communication_t {\n  opacity: 1;\n  transform: translateY(-200px);\n}\n#com_ex {\n  transform: translateY(500px);\n}\n.s37 {\n}\n.s37 #com_ex {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s37 #communication {\n  transform: translateY(-100px);\n}\n.s37 #communication_t {\n  transform: translateY(-280px);\n  transition-delay: 0s;\n}\n#com_ex2 {\n  transform: translateY(560px);\n}\n.s38 {\n}\n.s38 #communication {\n  transform: translateY(-180px);\n}\n.s38 #communication_t {\n  transform: translateY(-340px);\n}\n.s38 #com_ex {\n  transform: translateY(-100px);\n}\n.s38 #com_ex2 {\n  opacity: 1;\n  transform: translateY(60px);\n}\n#com_f {\n  transform: translateX(400px);\n  background-color: rgba(0, 0, 0, 0.6);\n  font-size: 4vw;\n  padding: 2vw;\n}\n.s39 {\n}\n.s39 #com_ex {\n  opacity: 0;\n  transform: translateX(-500px) translateY(-100px);\n}\n.s39 #com_ex2 {\n  opacity: 0;\n  transform: translateX(-500px) translateY(60px);\n}\n.s39 #com_f {\n  opacity: 1;\n  transform: translateX(0px);\n}\n#grpc {\n  transform: translateX(400px) scaleX(0.5) scaleY(0.5);\n}\n.s39 {\n}\n.s39 #com_f {\n  opacity: 0;\n  transform: translateX(-400px);\n}\n.s39 #grpc {\n  opacity: 1;\n  transform: translateX(0px) scaleX(0.5) scaleY(0.5);\n}\n#grpc_ex {\n  transform: translateX(400px);\n}\n.s40 {\n}\n.s40 #grpc {\n  opacity: 0.4;\n  transform: translateX(0px) scaleX(0.4) scaleY(0.4);\n}\n.s40 #grpc_ex {\n  opacity: 1;\n  transform: translateX(0px);\n  transition-delay: 0.3s;\n}\n#pubsub {\n  transform: translateY(-300px) scaleX(1.4) scaleY(1.4);\n}\n.s41 {\n}\n.s41 #grpc {\n  opacity: 0;\n}\n.s41 #grpc_ex {\n  opacity: 0;\n  transform: translateX(0px) translateY(400px);\n}\n.s41 #communication {\n  opacity: 0;\n  transform: translateY(320px);\n}\n.s41 #pubsub {\n  opacity: 1;\n  transform: translateY(0px) scaleX(1.4) scaleY(1.4);\n  transition-delay: 0.3s;\n}\n#rabbit {\n  transform: translateY(-400px);\n  background-color: rgba(255, 255, 255, 0.8);\n}\n.s42 {\n}\n.s42 #rabbit {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s42 #pubsub {\n  opacity: 0.3;\n  transform: translateY(200px) scaleX(1.4) scaleY(1.4);\n}\n#rabbit_h {\n  transform: translateY(-100px);\n}\n#rabbit_h img {\n  width: 80vh;\n}\n.s43 {\n}\n.s43 #pubsub {\n  opacity: 0;\n  transform: translateY(700px) scaleX(1.4) scaleY(1.4);\n}\n.s43 #rabbit {\n  transform: translateY(-180px);\n}\n.s43 #rabbit_h {\n  opacity: 1;\n  transform: translateY(120px);\n}\n#kafka {\n  transform: translateY(-400px);\n}\n.s44 {\n}\n.s44 #kafka {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s44 #rabbit {\n  opacity: 0.4;\n  transform: translateY(170px);\n  transition-delay: 0.2s;\n}\n.s44 #rabbit_h {\n  opacity: 0;\n  transform: translateY(390px);\n  transition-delay: 0.3s;\n}\n.s44 #pubsub {\n  transform: translateY(900px) scaleX(1.4) scaleY(1.4);\n}\n#kafka_d {\n  transform: translateY(-200px);\n  font-size: 3vw;\n  text-align: justify;\n  width: 80vw;\n  padding: 1vh;\n  background-color: rgba(0, 0, 0, 0.3);\n}\n#kafka_d b {\n  color: #FFC107;\n}\n#kafka_d2 {\n  transform: translateY(100px) rotateX(-90deg);\n  font-size: 3vw;\n  text-align: justify;\n  width: 60vw;\n  padding: 1vh;\n  background-color: rgba(0, 0, 0, 0.3);\n}\n#kafka_d2 b {\n  color: #FFC107;\n}\n.s45 {\n}\n.s45 #rabbit {\n  opacity: 0;\n  transform: translateY(520px);\n}\n.s45 #kafka_d {\n  opacity: 1;\n  transform: translateY(130px);\n}\n.s45 #kafka {\n  transform: translateY(-150px);\n}\n.s46 {\n}\n.s46 #kafka {\n  transform: translateY(-100px);\n}\n.s46 #kafka_d {\n  opacity: 0;\n  transform: translateY(130px) rotateX(90deg);\n}\n.s46 #kafka_d2 {\n  opacity: 1;\n  transform: translateY(100px) rotateX(0deg);\n  transition-delay: 0.2s;\n}\n#kafka_ar {\n  transform: translateY(150px) rotateX(-90deg);\n}\n#kafka_ar img {\n  width: 60vw;\n}\n.s47 {\n}\n.s47 #kafka {\n  transform: translateY(-200px);\n  transition-delay: 0.3s;\n}\n.s47 #kafka_d2 {\n  opacity: 0;\n  transform: translateY(100px) rotateX(90deg);\n}\n.s47 #kafka_ar {\n  opacity: 1;\n  transform: translateY(150px) rotateX(0deg);\n  transition-delay: 0.2s;\n}\n#pubsub_providers {\n  transform: translateY(-300px);\n  font-size: 5vh;\n  width: 60vw;\n}\n#pubsub_providers span {\n  display: inline-block;\n  width: 15vw;\n  color: #FFC107;\n  font-weight: 400;\n}\n.s48 {\n}\n.s48 #kafka {\n  opacity: 0;\n  transform: translateY(300px);\n  transition-delay: 0s;\n}\n.s48 #kafka_ar {\n  opacity: 0;\n  transform: translateY(650px) rotateX(0deg);\n}\n.s48 #pubsub_providers {\n  opacity: 1;\n  transform: translateY(0px);\n}\n#spotify_o {\n  transform: translateX(500px);\n}\n#spotify_o img {\n  width: 70vw;\n}\n#spotify_logo {\n  transform: translateY(-500px);\n}\n.s49 {\n}\n.s49 #pubsub_providers {\n  opacity: 0;\n  transform: translateX(-300px) translateY(0px);\n  transition-delay: 0.2s;\n}\n.s49 #communication_t {\n  opacity: 0;\n  transform: translateY(-540px);\n}\n.s49 #spotify_o {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s49 #spotify_logo {\n  opacity: 1;\n  transform: translateY(-300px);\n  transition-delay: 0.5s;\n}\n#spotify {\n  transform: rotateX(-90deg);\n}\n#spotify img {\n  width: 70vw;\n}\n.s50 {\n}\n.s50 #spotify_o {\n  opacity: 0;\n  transform: translateX(0px) rotateX(90deg);\n}\n.s50 #spotify {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#spotify_r {\n  transform: rotateX(-90deg);\n}\n.s51 {\n}\n.s51 #spotify {\n  opacity: 0;\n  transform: rotateX(90deg);\n}\n.s51 #spotify_r {\n  opacity: 1;\n  transform: rotateX(0deg);\n  transition-delay: 0.3s;\n}\n#summary {\n  transform: translateX(400px);\n  font-size: 4.3vh;\n}\n#summary > ul > li {\n  color: #FFC107;\n  font-weight: 400;\n  opacity: 0;\n  transition: all 0.3s ease-in;\n  transform: translateX(200px);\n}\n#summary ul li ul li {\n  color: #fff;\n  font-weight: 100;\n}\n.s52 {\n}\n.s52 #spotify_logo {\n  opacity: 0;\n  transform: translateY(-500px);\n  transition-delay: 0s;\n}\n.s52 #spotify_r {\n  opacity: 0;\n  transform: translateY(400px) rotateX(0deg);\n  transition-delay: 0s;\n}\n.s52 #summary {\n  opacity: 1;\n  transform: translateX(0px);\n}\n.s52 #summary > ul > li:nth-child(1) {\n  opacity: 1;\n  transform: none;\n}\n.s53 {\n}\n.s53 #summary > ul > li:nth-child(2) {\n  opacity: 1;\n  transform: none;\n}\n.s54 {\n}\n.s54 #summary > ul > li:nth-child(3) {\n  opacity: 1;\n  transform: none;\n}\n.s55 {\n}\n.s55 #summary > ul > li:nth-child(4) {\n  opacity: 1;\n  transform: none;\n}\n.s56 {\n}\n.s56 #summary > ul > li:nth-child(5) {\n  opacity: 1;\n  transform: none;\n}\n.s57 {\n}\n.s57 #summary > ul > li:nth-child(6) {\n  opacity: 1;\n  transform: none;\n}\n#thnx {\n  font-size: 8vw;\n  transform: translateY(-400px);\n}\n#url {\n  transform: translateY(-400px);\n}\n.s58 {\n}\n.s58 #summary {\n  opacity: 0;\n  transform: translateX(0px) translateY(500px);\n}\n.s58 #thnx {\n  opacity: 1;\n  transform: translateY(-100px);\n}\n.s58 #url {\n  opacity: 1;\n  transform: translateY(0px);\n}\n.s5 [name="t"] {\n  z-index: 1000;\n}\n.s23 [name="t2"] {\n  z-index: 1000;\n}\n.s25 [name="t3"] {\n  z-index: 1000;\n}\n.s5 [name="kube_ex"] {\n  z-index: 900;\n}'])
+C.dW=I.h([C.dT])
 C.aV=I.h(["/"])
 C.cf=new D.cO("symbol",T.Fd(),C.G,C.aU)
 C.dZ=I.h([C.cf])
@@ -15316,12 +15316,12 @@ C.e1=H.D(I.h([]),[U.cZ])
 C.e0=H.D(I.h([]),[P.m])
 C.e3=I.h([0,0,32722,12287,65534,34815,65534,18431])
 C.ac=H.j("eg")
-C.dC=I.h([C.ac])
+C.dB=I.h([C.ac])
 C.ai=H.j("ep")
-C.dG=I.h([C.ai])
+C.dF=I.h([C.ai])
 C.ag=H.j("el")
-C.dF=I.h([C.ag])
-C.e6=I.h([C.dC,C.dG,C.dF])
+C.dE=I.h([C.ag])
+C.e6=I.h([C.dB,C.dF,C.dE])
 C.e7=I.h([C.am,C.C])
 C.aW=I.h([C.S,C.Q,C.aZ])
 C.eb=I.h([C.b8,C.C,C.Z])
@@ -15339,8 +15339,8 @@ C.em=I.h([C.bc,C.C])
 C.af=H.j("ek")
 C.b4=new S.b8("HammerGestureConfig")
 C.co=new B.bq(C.b4)
-C.dw=I.h([C.af,C.co])
-C.en=I.h([C.dw])
+C.dv=I.h([C.af,C.co])
+C.en=I.h([C.dv])
 C.M=I.h([1])
 C.e8=I.h([C.M,C.M,C.M,C.M])
 C.u=I.h([1,1])
@@ -15385,7 +15385,7 @@ C.d8=I.h([C.d0,C.eU,C.f0,C.a6,C.eV,C.eW,C.f_])
 C.f6=new Y.an(C.bL,null,"__noValueProvided__",C.ae,null,null,null,null)
 C.bd=H.j("jr")
 C.f1=new Y.an(C.ae,C.bd,"__noValueProvided__",null,null,null,null,null)
-C.dT=I.h([C.f6,C.f1])
+C.dR=I.h([C.f6,C.f1])
 C.bh=H.j("jE")
 C.d5=I.h([C.bh,C.ao])
 C.eD=new S.b8("Platform Pipes")
@@ -15439,7 +15439,7 @@ C.eR=new Y.an(C.b4,C.af,"__noValueProvided__",null,null,null,null,null)
 C.ad=H.j("jq")
 C.eT=new Y.an(C.bJ,null,"__noValueProvided__",C.ad,null,null,null,null)
 C.as=H.j("eH")
-C.d3=I.h([C.d8,C.dT,C.d5,C.eY,C.f5,C.f3,C.f2,C.ac,C.ai,C.ag,C.eX,C.eR,C.ad,C.eT,C.as,C.E])
+C.d3=I.h([C.d8,C.dR,C.d5,C.eY,C.f5,C.f3,C.f2,C.ac,C.ai,C.ag,C.eX,C.eR,C.ad,C.eT,C.as,C.E])
 C.es=I.h([C.d3])
 C.eq=I.h(["xlink","svg","xhtml"])
 C.et=new H.ft(3,{xlink:"http://www.w3.org/1999/xlink",svg:"http://www.w3.org/2000/svg",xhtml:"http://www.w3.org/1999/xhtml"},C.eq,[null,null])
@@ -15726,7 +15726,7 @@ try{null.$method$($argumentsExpr$)}catch(z){return z.message}}())},"lv","$get$lv
 try{(void 0).$method$($argumentsExpr$)}catch(z){return z.message}}())},"lt","$get$lt",function(){return H.bA(H.lu(null))},"ls","$get$ls",function(){return H.bA(function(){try{null.$method$}catch(z){return z.message}}())},"ly","$get$ly",function(){return H.bA(H.lu(void 0))},"lx","$get$lx",function(){return H.bA(function(){try{(void 0).$method$}catch(z){return z.message}}())},"ho","$get$ho",function(){return P.z5()},"c_","$get$c_",function(){return P.uE(null,null)},"ma","$get$ma",function(){return P.fD(null,null,null,null,null)},"dc","$get$dc",function(){return[]},"jy","$get$jy",function(){return P.k7(["iso_8859-1:1987",C.p,"iso-ir-100",C.p,"iso_8859-1",C.p,"iso-8859-1",C.p,"latin1",C.p,"l1",C.p,"ibm819",C.p,"cp819",C.p,"csisolatin1",C.p,"iso-ir-6",C.n,"ansi_x3.4-1968",C.n,"ansi_x3.4-1986",C.n,"iso_646.irv:1991",C.n,"iso646-us",C.n,"us-ascii",C.n,"us",C.n,"ibm367",C.n,"cp367",C.n,"csascii",C.n,"ascii",C.n,"csutf8",C.m,"utf-8",C.m],P.m,P.eh)},"mq","$get$mq",function(){return P.P("^[\\-\\.0-9A-Z_a-z~]*$",!0,!1)},"n_","$get$n_",function(){return P.B0()},"jw","$get$jw",function(){return P.am(["animationend","webkitAnimationEnd","animationiteration","webkitAnimationIteration","animationstart","webkitAnimationStart","fullscreenchange","webkitfullscreenchange","fullscreenerror","webkitfullscreenerror","keyadded","webkitkeyadded","keyerror","webkitkeyerror","keymessage","webkitkeymessage","needkey","webkitneedkey","pointerlockchange","webkitpointerlockchange","pointerlockerror","webkitpointerlockerror","resourcetimingbufferfull","webkitresourcetimingbufferfull","transitionend","webkitTransitionEnd","speechchange","webkitSpeechChange"])},"jc","$get$jc",function(){return P.P("^\\S+$",!0,!1)},"bF","$get$bF",function(){return P.bD(self)},"hr","$get$hr",function(){return H.pB("_$dart_dartObject")},"hM","$get$hM",function(){return function DartObject(a){this.o=a}},"iU","$get$iU",function(){return $.$get$qK().$1("ApplicationRef#tick()")},"mU","$get$mU",function(){return P.wK(null)},"qG","$get$qG",function(){return new R.Ch()},"jP","$get$jP",function(){return new M.Ac()},"jN","$get$jN",function(){return G.wR(C.ah)},"ba","$get$ba",function(){return new G.vA(P.cW(P.a,G.h1))},"iy","$get$iy",function(){return V.CO()},"qK","$get$qK",function(){return $.$get$iy()===!0?V.FG():new U.BX()},"qL","$get$qL",function(){return $.$get$iy()===!0?V.FH():new U.BW()},"mu","$get$mu",function(){return[null]},"eQ","$get$eQ",function(){return[null,null]},"H","$get$H",function(){var z=P.m
 z=new M.kY(H.eo(null,M.A),H.eo(z,{func:1,args:[,]}),H.eo(z,{func:1,v:true,args:[,,]}),H.eo(z,{func:1,args:[,P.k]}),null,null)
 z.qI(new O.wg())
-return z},"h2","$get$h2",function(){return P.P("%COMP%",!0,!1)},"kf","$get$kf",function(){return P.P("^@([^:]+):(.+)",!0,!1)},"mE","$get$mE",function(){return P.am(["pan",!0,"panstart",!0,"panmove",!0,"panend",!0,"pancancel",!0,"panleft",!0,"panright",!0,"panup",!0,"pandown",!0,"pinch",!0,"pinchstart",!0,"pinchmove",!0,"pinchend",!0,"pinchcancel",!0,"pinchin",!0,"pinchout",!0,"press",!0,"pressup",!0,"rotate",!0,"rotatestart",!0,"rotatemove",!0,"rotateend",!0,"rotatecancel",!0,"swipe",!0,"swipeleft",!0,"swiperight",!0,"swipeup",!0,"swipedown",!0,"tap",!0])},"iq","$get$iq",function(){return["alt","control","meta","shift"]},"qm","$get$qm",function(){return P.am(["alt",new N.BY(),"control",new N.C8(),"meta",new N.Ci(),"shift",new N.Cj()])},"mD","$get$mD",function(){return P.P('["\\x00-\\x1F\\x7F]',!0,!1)},"qF","$get$qF",function(){return P.P('[^()<>@,;:"\\\\/[\\]?={} \\t\\x00-\\x1F\\x7F]+',!0,!1)},"mR","$get$mR",function(){return P.P("(?:\\r\\n)?[ \\t]+",!0,!1)},"mT","$get$mT",function(){return P.P('"(?:[^"\\x00-\\x1F\\x7F]|\\\\.)*"',!0,!1)},"mS","$get$mS",function(){return P.P("\\\\(.)",!0,!1)},"qo","$get$qo",function(){return P.P('[()<>@,;:"\\\\/\\[\\]?={} \\t\\x00-\\x1F\\x7F]',!0,!1)},"qI","$get$qI",function(){return P.P("(?:"+$.$get$mR().a+")*",!0,!1)},"qJ","$get$qJ",function(){return M.j9(null,$.$get$d2())},"eZ","$get$eZ",function(){return new M.j8($.$get$eG(),null)},"lg","$get$lg",function(){return new E.wp("posix","/",C.aV,P.P("/",!0,!1),P.P("[^/]$",!0,!1),P.P("^/",!0,!1),null)},"d2","$get$d2",function(){return new L.yU("windows","\\",C.dU,P.P("[/\\\\]",!0,!1),P.P("[^/\\\\]$",!0,!1),P.P("^(\\\\\\\\[^\\\\]+\\\\[^\\\\/]+|[a-zA-Z]:[/\\\\])",!0,!1),P.P("^[/\\\\](?![/\\\\])",!0,!1))},"cl","$get$cl",function(){return new F.yE("url","/",C.aV,P.P("/",!0,!1),P.P("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0,!1),P.P("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0,!1),P.P("^/",!0,!1))},"eG","$get$eG",function(){return O.xX()},"n2","$get$n2",function(){return new P.a()},"pr","$get$pr",function(){return P.P("^#\\d+\\s+(\\S.*) \\((.+?)((?::\\d+){0,2})\\)$",!0,!1)},"n4","$get$n4",function(){return P.P("^\\s*at (?:(\\S.*?)(?: \\[as [^\\]]+\\])? \\((.*)\\)|(.*))$",!0,!1)},"n7","$get$n7",function(){return P.P("^(.*):(\\d+):(\\d+)|native$",!0,!1)},"n3","$get$n3",function(){return P.P("^eval at (?:\\S.*?) \\((.*)\\)(?:, .*?:\\d+:\\d+)?$",!0,!1)},"mH","$get$mH",function(){return P.P("^(?:([^@(/]*)(?:\\(.*\\))?((?:/[^/]*)*)(?:\\(.*\\))?@)?(.*?):(\\d*)(?::(\\d*))?$",!0,!1)},"mJ","$get$mJ",function(){return P.P("^(\\S+)(?: (\\d+)(?::(\\d+))?)?\\s+([^\\d]\\S*)$",!0,!1)},"mv","$get$mv",function(){return P.P("<(<anonymous closure>|[^>]+)_async_body>",!0,!1)},"mP","$get$mP",function(){return P.P("^\\.",!0,!1)},"jI","$get$jI",function(){return P.P("^[a-zA-Z][-+.a-zA-Z\\d]*://",!0,!1)},"jJ","$get$jJ",function(){return P.P("^([a-zA-Z]:[\\\\/]|\\\\\\\\)",!0,!1)},"n5","$get$n5",function(){return P.P("\\n    ?at ",!0,!1)},"n6","$get$n6",function(){return P.P("    ?at ",!0,!1)},"mI","$get$mI",function(){return P.P("^(([.0-9A-Za-z_$/<]|\\(.*\\))*@)?[^\\s]*:\\d*$",!0,!0)},"mK","$get$mK",function(){return P.P("^[^\\s]+( \\d+(:\\d+)?)?[ \\t]+[^\\s]+$",!0,!0)},"pD","$get$pD",function(){return!0},"n1","$get$n1",function(){return P.P("/",!0,!1).a==="\\/"}])
+return z},"h2","$get$h2",function(){return P.P("%COMP%",!0,!1)},"kf","$get$kf",function(){return P.P("^@([^:]+):(.+)",!0,!1)},"mE","$get$mE",function(){return P.am(["pan",!0,"panstart",!0,"panmove",!0,"panend",!0,"pancancel",!0,"panleft",!0,"panright",!0,"panup",!0,"pandown",!0,"pinch",!0,"pinchstart",!0,"pinchmove",!0,"pinchend",!0,"pinchcancel",!0,"pinchin",!0,"pinchout",!0,"press",!0,"pressup",!0,"rotate",!0,"rotatestart",!0,"rotatemove",!0,"rotateend",!0,"rotatecancel",!0,"swipe",!0,"swipeleft",!0,"swiperight",!0,"swipeup",!0,"swipedown",!0,"tap",!0])},"iq","$get$iq",function(){return["alt","control","meta","shift"]},"qm","$get$qm",function(){return P.am(["alt",new N.BY(),"control",new N.C8(),"meta",new N.Ci(),"shift",new N.Cj()])},"mD","$get$mD",function(){return P.P('["\\x00-\\x1F\\x7F]',!0,!1)},"qF","$get$qF",function(){return P.P('[^()<>@,;:"\\\\/[\\]?={} \\t\\x00-\\x1F\\x7F]+',!0,!1)},"mR","$get$mR",function(){return P.P("(?:\\r\\n)?[ \\t]+",!0,!1)},"mT","$get$mT",function(){return P.P('"(?:[^"\\x00-\\x1F\\x7F]|\\\\.)*"',!0,!1)},"mS","$get$mS",function(){return P.P("\\\\(.)",!0,!1)},"qo","$get$qo",function(){return P.P('[()<>@,;:"\\\\/\\[\\]?={} \\t\\x00-\\x1F\\x7F]',!0,!1)},"qI","$get$qI",function(){return P.P("(?:"+$.$get$mR().a+")*",!0,!1)},"qJ","$get$qJ",function(){return M.j9(null,$.$get$d2())},"eZ","$get$eZ",function(){return new M.j8($.$get$eG(),null)},"lg","$get$lg",function(){return new E.wp("posix","/",C.aV,P.P("/",!0,!1),P.P("[^/]$",!0,!1),P.P("^/",!0,!1),null)},"d2","$get$d2",function(){return new L.yU("windows","\\",C.dS,P.P("[/\\\\]",!0,!1),P.P("[^/\\\\]$",!0,!1),P.P("^(\\\\\\\\[^\\\\]+\\\\[^\\\\/]+|[a-zA-Z]:[/\\\\])",!0,!1),P.P("^[/\\\\](?![/\\\\])",!0,!1))},"cl","$get$cl",function(){return new F.yE("url","/",C.aV,P.P("/",!0,!1),P.P("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0,!1),P.P("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0,!1),P.P("^/",!0,!1))},"eG","$get$eG",function(){return O.xX()},"n2","$get$n2",function(){return new P.a()},"pr","$get$pr",function(){return P.P("^#\\d+\\s+(\\S.*) \\((.+?)((?::\\d+){0,2})\\)$",!0,!1)},"n4","$get$n4",function(){return P.P("^\\s*at (?:(\\S.*?)(?: \\[as [^\\]]+\\])? \\((.*)\\)|(.*))$",!0,!1)},"n7","$get$n7",function(){return P.P("^(.*):(\\d+):(\\d+)|native$",!0,!1)},"n3","$get$n3",function(){return P.P("^eval at (?:\\S.*?) \\((.*)\\)(?:, .*?:\\d+:\\d+)?$",!0,!1)},"mH","$get$mH",function(){return P.P("^(?:([^@(/]*)(?:\\(.*\\))?((?:/[^/]*)*)(?:\\(.*\\))?@)?(.*?):(\\d*)(?::(\\d*))?$",!0,!1)},"mJ","$get$mJ",function(){return P.P("^(\\S+)(?: (\\d+)(?::(\\d+))?)?\\s+([^\\d]\\S*)$",!0,!1)},"mv","$get$mv",function(){return P.P("<(<anonymous closure>|[^>]+)_async_body>",!0,!1)},"mP","$get$mP",function(){return P.P("^\\.",!0,!1)},"jI","$get$jI",function(){return P.P("^[a-zA-Z][-+.a-zA-Z\\d]*://",!0,!1)},"jJ","$get$jJ",function(){return P.P("^([a-zA-Z]:[\\\\/]|\\\\\\\\)",!0,!1)},"n5","$get$n5",function(){return P.P("\\n    ?at ",!0,!1)},"n6","$get$n6",function(){return P.P("    ?at ",!0,!1)},"mI","$get$mI",function(){return P.P("^(([.0-9A-Za-z_$/<]|\\(.*\\))*@)?[^\\s]*:\\d*$",!0,!0)},"mK","$get$mK",function(){return P.P("^[^\\s]+( \\d+(:\\d+)?)?[ \\t]+[^\\s]+$",!0,!0)},"pD","$get$pD",function(){return!0},"n1","$get$n1",function(){return P.P("/",!0,!1).a==="\\/"}])
 I=I.$finishIsolateConstructor(I)
 $=new I()
 init.metadata=[null,"self","parent","zone","value","error","stackTrace","_",C.a,"_renderer","index","arg1","key","f","line","type","v","_elementRef","_validators","e","arg","callback","fn","_asyncValidators","control","result","trace","frame","arg0","element","event","x","viewContainer","arg2","typeOrFunc","valueAccessors","o","duration","a","k","keys","_viewContainer","_zone","data","templateRef","_injector","t","c","_iterableDiffers","validator","name","pair","invocation","_templateRef","each","elem","message","_parent","findInAncestors","obj","testability","chunk","sswitch","_viewContainerRef","_differs","_localization","template","_cdr","_ngEl","cd","validators","asyncValidators","_keyValueDiffers","b","_registry","arguments","_element","captureThis","minLength","maxLength","pattern","res","futureOrStream","arrayOfErrors","s","_ref","_packagePrefix","ref","err","_platform","encodedComponent","item","ngSwitch",0,"provider","aliasInstance","st","nodeIndex","_appId","sanitizer","_compiler","theStackTrace","length","theError","errorCode","_ngZone","zoneValues","specification","exception","reason","arg4","thisArg","o1","o2","o3","o4","o5","o6","o7","o8","o9","o10","elementRef","exactMatch","allowNonElementNodes",!0,"arg3","numberOfArguments","didWork_","_select","req","dom","hammer","isolate","document","eventManager","p","plugins","eventObj","_config","closure","renderer","evm","elRef","_http","_prettifyService","key1","key2","body","sender","color","object","match","position","bindingString"]

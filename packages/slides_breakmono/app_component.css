@@ -1166,15 +1166,15 @@ pre {
   opacity: 1;
   transform: translateY(0px);
 }
-[name="t"] {
+.s5 [name="t"] {
   z-index: 1000;
 }
-[name="t2"] {
+.s23 [name="t2"] {
   z-index: 1000;
 }
-[name="t3"] {
+.s25 [name="t3"] {
   z-index: 1000;
 }
-[name="kube_ex"] {
+.s5 [name="kube_ex"] {
   z-index: 900;
 }
