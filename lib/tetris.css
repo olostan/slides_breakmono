@@ -1,0 +1,46 @@
+:host {
+    display: inline-block;
+    width: 30vw;
+    height: 80vh;
+    text-align: center;
+}
+div {
+    height: 3.3vh;
+}
+div.row.r0 {
+    opacity: 0.7;
+}
+div.row.r2:after {
+    content: "Gave Over";
+    position: absolute;
+    padding: 20px;
+    border: solid 1px red;
+    border-radius: 20px;
+    background-color: yellow;
+    left:50%;
+    margin-left:-70px;
+    top: 20%;
+    color: red;
+}
+
+div.row span {
+    width:calc(100%/15);
+    height: 100%;
+    display: inline-block;
+    background-color: #efefef;
+    border: solid 1px #BBB;
+    box-sizing: border-box;
+    transition: 0.2s all ease-in;
+}
+div.row span.c1 {
+    background-color: red;
+}
+span.button {
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+    display: inline-block;
+    color: black;
+    background-color: #efefef;
+    border: solid 1px black;
+}

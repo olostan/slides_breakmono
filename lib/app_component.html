@@ -1,0 +1,215 @@
+<presentation slides="70">
+    <symbol name="bg"></symbol>
+    <symbol name="title">Migrating Monolith-style Application into Microservice Based Architecture</symbol>
+    <symbol name="subtitle">Best Practices</symbol>
+    <symbol name="me_ava"><img src="assets/shybanov.jpg"></symbol>
+    <symbol name="me">Valentyn Shybanov</symbol>
+    <symbol name="me_2">Software Architect, Wolters Kluwer</symbol>
+    <symbol name="me_3">Google Developers Expert. Web & Cloud</symbol>
+    <symbol name="me_4"><a href="http://olostan.name/" target="_blank">http://olostan.name/</a></symbol>
+
+    <symbol name="evo"><img src="assets/evolution-of-man-to-computer.jpg"></symbol>
+    <symbol name="deep"><img src="assets/deep-down.jpg"></symbol>
+    <symbol name="whycloud"><img src="assets/questionmark.jpg"></symbol>
+    <symbol name="whycloud_t">WHY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUD?</symbol>
+
+    <symbol name="t"><tetris speed="100"></tetris></symbol>
+
+    <symbol name="wc_l1">Updates for free</symbol>
+    <symbol name="wc_l2">Flexible up&down scaling</symbol>
+    <symbol name="wc_l2_g2"><img src="assets/google-cloud-pokemon-go-1.png"></symbol>
+
+    <symbol name="wc_l2_g"><img src="assets/pokemon_go_logo.png"></symbol>
+
+    <symbol name="wc_l3">Always On</symbol>
+    <symbol name="wc_l4">Environment Friendly</symbol>
+    <symbol name="wc_l4_g"><img src="assets/envir.gif"></symbol>
+
+    <symbol name="server"><img src="assets/server.png"></symbol>
+    <symbol name="server_t">Own Datacenter</symbol>
+    <symbol name="cloud_dc"><img src="assets/cloud-datacenter.jpg"></symbol>
+
+    <symbol name="process">
+        <ol>
+            <li>Create VM</li>
+            <li>Install Updates</li>
+            <li>Install Platform Dependencies</li>
+            <li>Install Platform</li>
+            <li>Install App Dependencies</li>
+            <li>Install App</li>
+            <li>Check it works</li>
+        </ol>
+    </symbol>
+    <symbol name="process_x">&#xd7; scaling</symbol>
+    <symbol name="monoexample"><img src="assets/mono-example.svg"></symbol>
+    <symbol name="monoexamplem"><img src="assets/mono-example-micr.svg"></symbol>
+    <symbol name="t2"><tetris speed="300"></tetris></symbol>
+    <symbol name="glass"><img src="assets/glass.jpg"></symbol>
+    <symbol name="should_we">Should we always break into microservices?</symbol>
+    <symbol name="t3"><tetris speed="300" initial="13"></tetris></symbol>
+    <symbol name="providers">
+        <div><span>Azure</span>Container Service</div>
+        <div><span>Amazon</span>EC2 Container Service</div>
+        <div><span>Google</span>Container Engine</div>
+    </symbol>
+    <symbol name="cneeds">
+        <ul class="bul">
+        <li>Discovery</li>
+        <li>Scaling</li>
+        <li>Security</li>
+        <li>Scheduling</li>
+        <li>Monitoring</li>
+        <li>Configuration</li>
+        <li>Health</li>
+        </ul>
+    </symbol>
+    <symbol name="azuresf"><img src="assets/azure_sf.png"></symbol>
+    <symbol name="vendor"><img src="assets/vendor-lock.png"></symbol>
+    <symbol name="kube"><img src="assets/kube-logo.png"></symbol>
+    <symbol name="kube_ex" sample="samples/kube.sh"></symbol>
+    <symbol name="fight"><img src="assets/fight.jpg"></symbol>
+    <symbol name="statefull">Statefull</symbol>
+    <symbol name="stateless">Stateless</symbol>
+    <symbol name="petvscattle"><img src="assets/pets-vs-cattle.jpg"></symbol>
+    <symbol name="petexamples">
+        <p class="cap">Example workloads for PetSet:</p>
+        <p>Databases like <b>MySQL</b> or <b>PostgreSQL</b> that require a single instance attached to a NFS <b>persistent volume</b> at any time</p>
+        <p>Clustered software like Zookeeper, Etcd, or Elasticsearch that require <b>stable membership</b>.</p>
+
+    </symbol>
+    <symbol name="communication"><img src="assets/Communication.png"></symbol>
+    <symbol name="communication_t">Communication</symbol>
+    <symbol name="com_ex" sample="samples/com.js"></symbol>
+    <symbol name="com_ex2" sample="samples/com2.js"></symbol>
+    <symbol name="com_f">
+        <ul class="bul">
+        <li>Discoverable</li>
+        <li>Low-latency</li>
+        <li>Cross-language</li>
+        </ul>
+    </symbol>
+    <symbol name="grpc"><img src="assets/grpc.png"></symbol>
+    <symbol name="grpc_ex" sample="samples/grpc.cs"></symbol>
+    <symbol name="pubsub" ><img src="assets/pubsub.gif"></symbol>
+    <symbol name="rabbit_h" ><img src="assets/rabbitmq_how.svg"></symbol>
+    <symbol name="rabbit" ><img src="assets/rabbit.png"></symbol>
+    <symbol name="kafka" ><img src="assets/kafka-logo-wide.png"></symbol>
+    <symbol name="kafka_d">Apache Kafka is an open-source <b>stream processing platform</b> developed by the Apache Software Foundation written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for <b>handling real-time data feeds</b>.</symbol>
+    <symbol name="kafka_d2">Massively scalable <b>pub/sub message queue</b> architected as a <b>distributed transaction log</b></symbol>
+    <symbol name="kafka_ar" ><img src="assets/kafka_ar.png"></symbol>
+    <symbol name="pubsub_providers">
+        <div><span>Azure</span>Service Bus</div>
+        <div><span>Amazon</span>Simple Queue/Notification Service</div>
+        <div><span>Google</span>Cloud Pub/Sub</div>
+    </symbol>
+    <symbol name="spotify_logo" ><img src="assets/spotify-logo.png"></symbol>
+    <symbol name="spotify_o" ><img src="assets/spotify_o.png"></symbol>
+    <symbol name="spotify" ><img src="assets/spotify-ar.png"></symbol>
+    <symbol name="spotify_r" ><img src="assets/spotify_sp.png"></symbol>
+    <symbol name="summary">
+        <ul>
+        <li>Why Cloud?
+            <ul>
+                <li>Efficient Resources</li>
+                <li>Delegated ops</li>
+            </ul></li>
+        <li>Why Containers?
+            <ul>
+                <li>Packaged dependencies</li>
+                <li>Atomic deployment</li>
+            </ul></li>
+        <li>Container management
+            <ul>
+                <li>Relations between containers</li>
+                <li>Storage</li>
+                <li>Health checks</li>
+            </ul></li>
+        <li>Stateful and Stateless services
+            <ul>
+                <li>Stateless scalable</li>
+                <li>Stateful persistence</li>
+            </ul></li>
+        <li>Communication between services
+            <ul>
+                <li>Sync calls: gRPC</li>
+                <li>Async ops: Pub/Sub</li>
+            </ul></li>
+        <li>Managed Services
+            <ul>
+                <li>Big savings on ops</li>
+            </ul></li>
+        </ul>
+    </symbol>
+    <symbol name="thnx">Thank you!</symbol>
+    <symbol name="url">https://olostan.github.io/slides_breakmono/</symbol>
+    <!--
+c.storage.googleapis.com.
+    Plan:
+    - Introduction
+    - Some history about me and my experience
+    - I not tell anything new
+        I'll share best practices and do recommendation
+    - why cloud (shortly)
+        Updates of underlying infrastructure for free
+        Flexible up-and-down scaling. Up to PokemonGo
+        Always on
+        Less environmental impact
+    - Why containers
+        No external dependencies
+        Better resource utilisation - tetris
+    - Real-life sitatuion - we have already a lot of code (tetris example)
+    - Sometimes you shoud say "No".
+        Sometimes monolyth serve much better that cutting app into pieces to have "microservices"
+
+    ...
+    - We have containers. They work. Is it enough?
+        Discovery
+        Scaling
+        Security
+        Scheduling
+        Monitoring
+        Configuration
+        Health
+      Manual work vs automated
+    - all providers allows us to run containers
+        Azure - Azure Container Service
+        Amazon -Amazon EC2 Container Service
+        Google - Container Engine
+     But what about vendor locking? We've chosen Docker to be universal, why to lock vendor for container managemnt?
+
+     Use Kubernetes: Manage application, not machines
+        Create deployment, expose it, health management
+     With K8S 1.3 you can "federated services" (http://kubernetes.io/docs/user-guide/federation/federated-services/)
+        your applications and services can span different clusters and cloud providers
+     A lot of legacy apps are stateful.
+        It is bad.
+        PetSet. We can even run "initialization container" to restore state, persistent
+        disk/container
+     Communication
+        Discoverable
+        Low-latency
+        Cross-language
+     Sync calls (most easiest - no rewrite of core system)
+        Instead of message call, call stub and get result
+            Recommendation: gRPC
+        Implementation:
+            First can be stateful (bad scalability), better to refactor to be stateless (request contain all data needed
+            to perform request)
+            Then stateless (make context into request to quotable (latency))
+     Async calls: pub/sub or message queues
+        Require architecture changes
+            RabbitMQ, Kafka
+        Vendor-lock possible: this is one of the most critical point. Let MS/Google engineers take care.
+     Health and monitoring
+        ELK Stack.
+
+
+
+    Cloud Technologies brings a huge challenge to Enterprises that have successful products. You can’t just stop
+    developing new features and develop “cloud-ready” application from scratch. During this talk we’ll try to go
+    through most important steps of migrating from monolith-style applications into micro-service based that utilize
+    best cloud features: PubSub, gRPC etc.
+
+    -->
+
+</presentation>
